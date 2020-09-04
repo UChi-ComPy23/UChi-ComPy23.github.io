@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 title: Scientific Computing with Python
 description: A course on scientific computing in the Python ecosystem.
+baseurl: /
