@@ -13,3 +13,4 @@ Multivariable calculus, Linear algebra, prior programming experience (not necess
 
 * [Syllabus](syllabus.md) - additional information and logistics
 * [Schedule](schedule.md) - detailed schedule with links, readings, and assignments
+* [Reader](https://caam37380.github.io/book) - online course reader, covering material we'll see in this course.  This will evolve throughout the quarter.
