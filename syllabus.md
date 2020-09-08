@@ -41,7 +41,7 @@ We reserve the right to curve the grades, but only in a fashion that would impro
 
 ## Textbook & Readings
 
-There is no required textbook for this course. Readings will be posted in the [schedule](schedule.md).  We are also building an online course reader.
+There is no required textbook for this course. Readings will be posted in the [schedule](schedule.md).  We are also building an online [course reader](https://caam37380.github.io/book/).
 
 A good reference which we may follow portions of is:
 [Mastering SciPy by Francisco J. Blanco-Silva.](https://catalog.lib.uchicago.edu/vufind/Record/11908913). This is available as a free electronic resource through the University of Chicago Library.
@@ -49,3 +49,25 @@ A good reference which we may follow portions of is:
 We will cover a variety of topics that are not adequately covered in *Mastering SciPy*, including basic Python (and some advanced topics), use of computing resources, basic numerical and algorithmic analysis, and additional libraries.
 
 Required, recommended, and optional readings will be posted in the schedule.  **Required** means that the reading covers something that you will want to know that we may not cover in lecture, either for homework or life in general.  **Recommended** means that the reading covers something you may find interesting/useful but may also not be necessary.  **Optional** means that the reading covers material that overlaps with other sources, but perhaps you will like the exposition better.
+
+## List of Topics
+
+We'll survey a variety of topics used in scientific computing in (roughly) the following order:
+
+1. Programming in Python
+2. Dense linear algebra (numpy)
+3. Sparse linear algebra (scipy)
+4. Functions of one variable (scipy)
+5. Symbolic computing (sympy)
+6. Numerical optimization (scipy)
+7. Graphs (networkx)
+8. Data processing (pandas)
+9. Machine learning (scikit learn)
+
+In parallel, we will cover a variety of practical topics, including
+
+1. Version control with git
+2. Unit testing
+3. Package development
+4. Cluster computing
+5. Parallel & GPU computing
