@@ -9,11 +9,15 @@ TA: [Richard Zhu](http://richardzhu.info/about/). PhD student in the Committee o
 
 ## Course Format
 
-This course will meet MWF 12:40 PM–1:30 PM.  Due to Covid-19, all lectures will be held remotely.  Links will be posted to Canvas.
+This course is scheduled to meet MWF 12:40 PM–1:30 PM.  Due to Covid-19, this course will be held entirely remotely.
 
-Homework will be posted Friday, and due the following Friday.  There will be 8 or 9 homework assignments.
+Videos will be pre-recorded for lectures, and posted to Canvas.  Additionally, any lecture material will be made available on GitHub.  A problem solving session will be held during regular class time (12:40-1:30 PM Central Time) on Fridays in order to address questions related to lecture material.
 
-There will be a course-long group project.  There will be a midterm checkpoint, and a final report.  Groups will be assigned after the add/drop deadline.
+Homework will be posted Friday, and due the following Friday.  We plan to have a homework assignment every week.
+
+There will be a course-long group project.  There will be a midterm checkpoint, and a final report.  Groups will be assigned a few weeks into the quarter.
+
+Problem solving sessions and office hours will not be recorded, so feel free to ask
 
 ## Evaluation
 
