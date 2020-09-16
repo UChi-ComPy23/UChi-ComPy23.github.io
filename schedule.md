@@ -3,7 +3,7 @@
 ## Day 0 - 9/28
 ### Class Material
 1. [Install Anaconda Python](https://github.com/caam37380/materials/blob/master/lectures/00/conda.md)
-2. [Install Jupyter notebooks](https://github.com/caam37380/materials/blob/master/lectures/00/jupyter.md)
+2. [Install Jupyter notebooks](https://github.com/caam37380/materials/blob/master/lectures/00/jupyter.ipynb)
 
 ### Reading
 **Required:**
