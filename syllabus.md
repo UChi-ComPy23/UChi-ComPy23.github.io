@@ -44,7 +44,7 @@ You can drop your lowest homework score (or just not do a homework) if you submi
 There are several things you will be evaluated on
 1. Correctness - is your answer correct?  Does your code produce the correct output? (may use an autograder to check this)
 2. Performance/efficiency - there are often many ways to implement an algorithm.  Some will be faster than others.  We'll let you know if we are looking for certain optimizations.
-3. Style - your code should be reasonably easy to understand.  This is typically achieved through the use of docstrings and comments.  
+3. Style - your code should be reasonably easy to understand.  This is typically achieved through the use of docstrings, comments, and appropriately named variables.  
 4. Team work - we'll ask your teammates to evaluate whether you performed a fair share of the work.
 
 ### Grading Policy
@@ -66,19 +66,21 @@ We reserve the right to curve the grades, but only in a fashion that would impro
 ### Late Work Policy
 Late work generally won't be accepted - please see the above note about how to drop your lowest homework scores.  Groups will be expected to come to a consensus on how to get work done on schedule.
 
-In abnormal circumstances, please reach out to the instruction staff for accomodations.
+This is the first time this course is being offered.  If an assignment is taking an unreasonable amount of time to complete, please let us know.  If this is done a few days before the due date, the assignment may be adjusted.
+
+In abnormal circumstances, please reach out to the instruction staff for accomodations.  Due to Covid-19, it is anticipated that "abnormal" circumstances may be more common.
 
 ### Collaboration Policy
 
 You are encouraged to collaborate with others in the class and use the internet to help with solving problems.
 
-When working with others, you can discuss problems and solutions, but **do not copy code**.  Note anyone you talked to in a comment in your code.
+When working with others, you can discuss problems and solutions, but **do not copy code**.  Note anyone you who contributed to your solution in a comment in your code.
 
 If you find helpful information online (e.g. on stackoverflow), put a note about what you used as well as the url in a comment in your code.  There are only so many ways to call a function, and it is perfectly acceptable to copy and paste a line or two of code (with a comment).
 
 You are welcome to make your solutions publicly available, but **please wait until after the assignment due date.**
 
-The group project will be judged collectively - you do not need to say who did what.
+The group project will be judged collectively - you do not need to say who did what.  This will all be recorded by git logs anyways.
 
 ## Textbook & Readings
 
@@ -114,3 +116,18 @@ In parallel, we will cover several practical topics, including
 5. Parallel & GPU computing
 
 A detailed [schedule](schedule.md) will be maintained.
+
+## Students with Disabilities
+
+The University of Chicago is committed to ensuring equitable access to
+our academic programs and services. Students with disabilities who have
+been approved for the use of academic accommodations by​ ​Student Disability
+Services​ ​(SDS) and need a reasonable accommodation(s) to participate fully
+in this course should follow the procedures established by SDS for using
+accommodations. Timely notifications are required in order to ensure that
+your accommodations can be implemented. Please meet with me to discuss
+your access needs in this class after you have completed the SDS
+procedures for requesting accommodations.
+
+Phone: (773) 702-6000<br />
+Email: ​disabilities@uchicago.edu
