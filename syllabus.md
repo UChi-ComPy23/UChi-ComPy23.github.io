@@ -11,13 +11,15 @@ TA: [Richard Zhu](http://richardzhu.info/about/). PhD student in the Committee o
 
 This course is scheduled to meet MWF 12:40 PM–1:30 PM.  Due to Covid-19, this course will be held entirely remotely.
 
-Videos will be pre-recorded for lectures, and posted to Canvas.  Additionally, any lecture material will be made available on GitHub.  A problem solving session will be held during regular class time (12:40-1:30 PM Central Time) on Fridays in order to address questions related to lecture material.
+Videos will be pre-recorded for lectures, and posted to Canvas.  Additionally, any lecture material will be made available on GitHub.  A problem solving session will be held during regular class time (12:40-1:30 PM Central Time) on Fridays in order to address questions related to lecture material.  Some material may be posted without an accompanying video (e.g. self-contained Jupyter notebooks), but videos will be made for anything where a "walkthrough" would add significant value.  You can always request a video if one does not exist and you believe it would be valuable - if several requests are received a video will be made.
 
 Homework will be posted Friday, and due the following Friday.  We plan to have a homework assignment every week.
 
 There will be a course-long group project.  There will be a midterm checkpoint, and a final report.  Groups will be assigned a few weeks into the quarter.
 
 Problem solving sessions and office hours will not be recorded, so you can feel free to ask any question you want.
+
+We will open discussion topics on Canvas where you can ask (or answer) questions as well.  This may be the best way to get help at odd hours or find others to work with.
 
 ### What you need for this course
 
@@ -33,7 +35,7 @@ In addition to a University of Chicago account, you'll need to create a [GitHub]
 
 ## Evaluation
 
-* Weekly homework (50% of final grade)
+* Weekly homework (50% of final grade, each weighted equally)
 * Group midterm checkpoint (20% of final grade)
 * Group final project/report (30% of final grade)
 
