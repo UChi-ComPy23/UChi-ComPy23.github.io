@@ -4,7 +4,7 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 
 ## Day 00 - 9/30
 ### Class Material
-0. [Basic Bash](https://caam37380.github.io/book/09_computing/basic_bash.html)
+0. [Basic Bash](https://caam37380.github.io/book/09_computing/basic_bash.html) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e4dcb80-5d0b-41a6-8386-ac3e011e86ca)]
 1. [Install Anaconda Python](https://github.com/caam37380/materials/blob/master/lectures/00/conda.md) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af0fb6d1-ff96-4ac3-8daa-ac38001795f8)]
 2. [Install Jupyter notebooks](https://github.com/caam37380/materials/blob/master/lectures/00/jupyter.ipynb) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d30f69a5-9599-4f5f-b7ca-ac3800ee0966)]
 3. [Python Basics](https://caam37380.github.io/book/00_python/basics.html)
@@ -39,7 +39,7 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 
 0. Functions in Python
 1. Decorators
-2. Modules and Packages
+2. Recursion
 
 ## Day 03 - 10/7
 
@@ -47,6 +47,7 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 
 0. Python Objects, OOP
 1. Examples
+2. Modules and Packages
 
 ## Day 04 - 10/9
 
@@ -69,15 +70,21 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 2. Performance profiling
 
 ### Reading
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 13 - 18 (Creation of matrices) **required**
 * [NumPy Ufuncs](https://numpy.org/doc/stable/reference/ufuncs.html) **Recommended**
 
 ## Day 06 - 10/14
 
 ### Class Material
 
-0. Numpy Array broadcasting
+0. NumPy broadcasting
 1. Linear algebra in NumPy
 2. Linear algebra in SciPy
+
+### Reading
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 28 - 38 (Basic Matrix Manipulation) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 38 - 41 (Matrix Factorizations) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 54 - 55 (Eigenvalue Decompositions) **required**
 
 ## Day 07 - 10/16
 ### Homework
@@ -96,11 +103,18 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 0. Sparse matrix formats, `scipy.sparse`
 1. Linear operators
 
+### Reading
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **required**
+
 ## Day 09 - 10/21
 
 0. Iterative Methods
 1. ARPACK
 2. Randomized linear algebra
+
+### Reading
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 44 - 51 (Sparse direct, iterative methods) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 56 - 57 (`eigs`, `eigsh`) **required**
 
 ## Day 10 - 10/23
 ### Homework
@@ -109,19 +123,29 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 
 ### Class Material
 
-0. Python Iterators
+0. Python Iterators and Generators
+1. `setuptools`, package deployment
 
 ## Day 11 - 10/26
 
 ### Class Material
 0. Symbolic Computing with SymPy
+1. Basic Interpolation
 
 ## Day 12 - 10/28
+
+### Class Material
+0. Differentiation
+1. Integration/Quadrature
 
 ## Day 13 - 10/30
 ### Homework
 * Homework 3 due
 * Homework 4 released
+
+### Class Material
+0. Numerical ODEs
+1. Linear PDEs
 
 ## Day 14 - 11/2
 
@@ -165,3 +189,7 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 ## Reading Period
 
 [Reading Period is 12/5-12/7](https://www.uchicago.edu/academics/calendar/)
+
+## Finals Period
+
+The group project will be due during finals period.  Details to be determined.
