@@ -37,17 +37,16 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 
 ### Class Material
 
-0. Functions in Python
-1. Decorators
-2. Recursion
+0. [Functions in Python](https://caam37380.github.io/book/00_python/functions.html)
+1. [Decorators](https://caam37380.github.io/book/00_python/decorators.html)
+2. [Recursion](https://caam37380.github.io/book/01_analysis/recursion.html)
 
 ## Day 03 - 10/7
 
 ### Class Material
 
-0. Python Objects, OOP
-1. Examples
-2. Modules and Packages
+0. [Python Objects, OOP](https://caam37380.github.io/book/00_python/classes.html)
+1. [Modules and Packages](https://caam37380.github.io/book/00_python/modules.html)
 
 ## Day 04 - 10/9
 
@@ -66,7 +65,7 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 ### Class Material
 
 0. [Vectorization, numpy ufuncs, numba](https://caam37380.github.io/book/09_computing/performance/numpy_ufuncs.html)
-1. Memory layout
+1. [Memory layout](https://caam37380.github.io/book/02_linear_algebra/memory.html)
 2. Performance profiling
 
 ### Reading
@@ -93,15 +92,15 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 
 ### Class Material
 
-0. SciPy BLAS Interface
-1. SciPy LAPACK Interface
+0. [SciPy BLAS Interface](https://caam37380.github.io/book/02_linear_algebra/blas_lapack.html)
+1. [SciPy LAPACK Interface](https://caam37380.github.io/book/02_linear_algebra/blas_lapack.html)
 
 ## Day 08 - 10/19
 
 ### Class Material
 
-0. Sparse matrix formats, `scipy.sparse`
-1. Linear operators
+0. [Sparse matrix formats, `scipy.sparse`](https://caam37380.github.io/book/02_linear_algebra/sparse.html)
+1. [Linear operators](https://caam37380.github.io/book/02_linear_algebra/linearoperators.html)
 
 ### Reading
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **required**
@@ -123,13 +122,13 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 
 ### Class Material
 
-0. Python Iterators and Generators
+0. [Python Iterators and Generators](https://caam37380.github.io/book/00_python/iterators.html)
 1. `setuptools`, package deployment
 
 ## Day 11 - 10/26
 
 ### Class Material
-0. Symbolic Computing with SymPy
+0. [Symbolic Computing with SymPy](https://caam37380.github.io/book/04_functions/sympy.html)
 1. Basic Interpolation
 
 ## Day 12 - 10/28
