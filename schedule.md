@@ -4,10 +4,10 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 
 ## Day 00 - 9/30
 ### Class Material
-0. [Basic Bash](https://caam37380.github.io/book/09_computing/basic_bash.html) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e4dcb80-5d0b-41a6-8386-ac3e011e86ca)]
-1. [Install Anaconda Python](https://github.com/caam37380/materials/blob/master/lectures/00/conda.md) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af0fb6d1-ff96-4ac3-8daa-ac38001795f8)]
-2. [Install Jupyter notebooks](https://github.com/caam37380/materials/blob/master/lectures/00/jupyter.ipynb) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d30f69a5-9599-4f5f-b7ca-ac3800ee0966)]
-3. [Python Basics](https://caam37380.github.io/book/00_python/basics.html)
+0. [Basic Bash](https://caam37830.github.io/book/09_computing/basic_bash.html) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e4dcb80-5d0b-41a6-8386-ac3e011e86ca)]
+1. [Install Anaconda Python](https://github.com/caam37830/materials/blob/master/lectures/00/conda.md) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af0fb6d1-ff96-4ac3-8daa-ac38001795f8)]
+2. [Install Jupyter notebooks](https://github.com/caam37830/materials/blob/master/lectures/00/jupyter.ipynb) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d30f69a5-9599-4f5f-b7ca-ac3800ee0966)]
+3. [Python Basics](https://caam37830.github.io/book/00_python/basics.html)
 
 ### Reading
 
@@ -23,10 +23,10 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 * Homework 0 released
 
 ### Class Material
-0. [Bits, Bytes, and Numbers](https://caam37380.github.io/book/00_python/bitsbytes.html)
-1. [Basic Containers and Packages](https://caam37380.github.io/book/00_python/basic_packages.html)
-2. [Asymptotic notation](https://caam37380.github.io/book/01_analysis/asymptotic_notation.html)
-3. [Python Scripts](https://github.com/caam37380/materials/blob/master/lectures/01/script.py) [[Download](https://raw.githubusercontent.com/caam37380/materials/master/lectures/01/script.py)]
+0. [Bits, Bytes, and Numbers](https://caam37830.github.io/book/00_python/bitsbytes.html)
+1. [Basic Containers and Packages](https://caam37830.github.io/book/00_python/basic_packages.html)
+2. [Asymptotic notation](https://caam37830.github.io/book/01_analysis/asymptotic_notation.html)
+3. [Python Scripts](https://github.com/caam37830/materials/blob/master/lectures/01/script.py) [[Download](https://raw.githubusercontent.com/caam37830/materials/master/lectures/01/script.py)]
 
 ### Reading
 * [PEP 0020 - The Zen of Python](https://www.python.org/dev/peps/pep-0020/) **Required**
@@ -37,16 +37,16 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 
 ### Class Material
 
-0. [Functions in Python](https://caam37380.github.io/book/00_python/functions.html)
-1. [Decorators](https://caam37380.github.io/book/00_python/decorators.html)
-2. [Recursion](https://caam37380.github.io/book/01_analysis/recursion.html)
+0. [Functions in Python](https://caam37830.github.io/book/00_python/functions.html)
+1. [Decorators](https://caam37830.github.io/book/00_python/decorators.html)
+2. [Recursion](https://caam37830.github.io/book/01_analysis/recursion.html)
 
 ## Day 03 - 10/7
 
 ### Class Material
 
-0. [Python Objects, OOP](https://caam37380.github.io/book/00_python/classes.html)
-1. [Modules and Packages](https://caam37380.github.io/book/00_python/modules.html)
+0. [Python Objects, OOP](https://caam37830.github.io/book/00_python/classes.html)
+1. [Modules and Packages](https://caam37830.github.io/book/00_python/modules.html)
 
 ## Day 04 - 10/9
 
@@ -64,8 +64,8 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 
 ### Class Material
 
-0. [Vectorization, numpy ufuncs, numba](https://caam37380.github.io/book/09_computing/performance/numpy_ufuncs.html)
-1. [Memory layout](https://caam37380.github.io/book/02_linear_algebra/memory.html)
+0. [Vectorization, numpy ufuncs, numba](https://caam37830.github.io/book/09_computing/performance/numpy_ufuncs.html)
+1. [Memory layout](https://caam37830.github.io/book/02_linear_algebra/memory.html)
 2. Performance profiling
 
 ### Reading
@@ -92,15 +92,15 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 
 ### Class Material
 
-0. [SciPy BLAS Interface](https://caam37380.github.io/book/02_linear_algebra/blas_lapack.html)
-1. [SciPy LAPACK Interface](https://caam37380.github.io/book/02_linear_algebra/blas_lapack.html)
+0. [SciPy BLAS Interface](https://caam37830.github.io/book/02_linear_algebra/blas_lapack.html)
+1. [SciPy LAPACK Interface](https://caam37830.github.io/book/02_linear_algebra/blas_lapack.html)
 
 ## Day 08 - 10/19
 
 ### Class Material
 
-0. [Sparse matrix formats, `scipy.sparse`](https://caam37380.github.io/book/02_linear_algebra/sparse.html)
-1. [Linear operators](https://caam37380.github.io/book/02_linear_algebra/linearoperators.html)
+0. [Sparse matrix formats, `scipy.sparse`](https://caam37830.github.io/book/02_linear_algebra/sparse.html)
+1. [Linear operators](https://caam37830.github.io/book/02_linear_algebra/linearoperators.html)
 
 ### Reading
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **required**
@@ -122,13 +122,13 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 
 ### Class Material
 
-0. [Python Iterators and Generators](https://caam37380.github.io/book/00_python/iterators.html)
+0. [Python Iterators and Generators](https://caam37830.github.io/book/00_python/iterators.html)
 1. `setuptools`, package deployment
 
 ## Day 11 - 10/26
 
 ### Class Material
-0. [Symbolic Computing with SymPy](https://caam37380.github.io/book/04_functions/sympy.html)
+0. [Symbolic Computing with SymPy](https://caam37830.github.io/book/04_functions/sympy.html)
 1. Basic Interpolation
 
 ## Day 12 - 10/28
