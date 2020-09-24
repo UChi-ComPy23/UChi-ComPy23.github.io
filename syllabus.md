@@ -41,7 +41,7 @@ In addition to a University of Chicago account, you'll need to create a [GitHub]
 
 10% of group work (5% of total grade) will be based on teammate evaluations.  These evaluations will be kept confidential.  If you believe your score to be unfair, you can reach out to the instruction staff.  We will look at git logs/history if we need to resolve any disputes.
 
-You can drop your lowest homework score (or just not do a homework) if you submit a successful pull request to improve the content of the course reader.  You can drop up to two homework grades in this way.  Please coordinate through GitHub issues.
+You can drop your lowest homework score (or just not do a homework) if you submit a successful pull request to improve the content of the course reader.  You can drop up to two homework grades in this way.  Please coordinate through [GitHub issues](https://github.com/caam37830/book/issues).
 
 There are several things you will be evaluated on
 1. Correctness - is your answer correct?  Does your code produce the correct output? (may use an autograder to check this)
