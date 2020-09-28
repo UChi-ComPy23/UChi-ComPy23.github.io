@@ -7,6 +7,8 @@ Instructor:  [Brad Nelson](https://bnels.github.io/). William H. Kruskal Instruc
 
 TA: [Richard Zhu](http://richardzhu.info/about/). PhD student in the Committee on Computational and Applied Mathematics. Office Hours TBD.
 
+TA: [Yian Chen](https://cam.uchicago.edu/people/profile/yian-chen/). PhD student in the Committee on Computational and Applied Mathematics.  Office Hours TBD.
+
 ## Course Format
 
 This course is scheduled to meet MWF 12:40 PM–1:30 PM.  Due to Covid-19, this course will be held entirely remotely.
