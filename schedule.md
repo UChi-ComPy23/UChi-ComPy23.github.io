@@ -5,7 +5,7 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 ## Day 00 - 9/30
 ### Class Material
 
-[Slides](https://docs.google.com/presentation/d/1yKtkYVs-V38jRogHXz50ZOSV3YYU7A_5EYGxz2txX8g/edit?usp=sharing) for course introduction.
+[Slides](https://docs.google.com/presentation/d/1yKtkYVs-V38jRogHXz50ZOSV3YYU7A_5EYGxz2txX8g/edit?usp=sharing) for course introduction (use UChicago login). [[Zoom Recording](https://uchicago.zoom.us/rec/share/2VnbBIv6KuI6R0KOFLu3Z7qsTCHpsPxi3-EbFRBrh53943QQy9vlQ5JdCr_Q0Dav.dLlQZqR394ElBIej) - first 20 min are slides, second 25 min are questions]
 
 0. [Basic Bash](https://caam37830.github.io/book/09_computing/basic_bash.html) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e4dcb80-5d0b-41a6-8386-ac3e011e86ca)]
 1. [Install Anaconda Python](https://github.com/caam37830/materials/blob/master/lectures/00/conda.md) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af0fb6d1-ff96-4ac3-8daa-ac38001795f8)]
