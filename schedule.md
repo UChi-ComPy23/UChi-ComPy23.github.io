@@ -4,6 +4,9 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 
 ## Day 00 - 9/30
 ### Class Material
+
+[Slides](https://docs.google.com/presentation/d/1yKtkYVs-V38jRogHXz50ZOSV3YYU7A_5EYGxz2txX8g/edit?usp=sharing) for course introduction.
+
 0. [Basic Bash](https://caam37830.github.io/book/09_computing/basic_bash.html) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e4dcb80-5d0b-41a6-8386-ac3e011e86ca)]
 1. [Install Anaconda Python](https://github.com/caam37830/materials/blob/master/lectures/00/conda.md) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af0fb6d1-ff96-4ac3-8daa-ac38001795f8)]
 2. [Install Jupyter notebooks](https://github.com/caam37830/materials/blob/master/lectures/00/jupyter.ipynb) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d30f69a5-9599-4f5f-b7ca-ac3800ee0966)]
@@ -23,9 +26,9 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 * Homework 0 released
 
 ### Class Material
-0. [Bits, Bytes, and Numbers](https://caam37830.github.io/book/00_python/bitsbytes.html)
-1. [Basic Containers and Packages](https://caam37830.github.io/book/00_python/basic_packages.html)
-2. [Asymptotic notation](https://caam37830.github.io/book/01_analysis/asymptotic_notation.html)
+0. [Bits, Bytes, and Numbers](https://caam37830.github.io/book/00_python/bitsbytes.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cfd8da52-3959-4165-bcb2-ac3e015fdfbb)]
+1. [Basic Containers and Packages](https://caam37830.github.io/book/00_python/basic_packages.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dea7434e-7764-4280-a301-ac3e0164d728)]
+2. [Asymptotic notation](https://caam37830.github.io/book/01_analysis/asymptotic_notation.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=261a9d32-0ae6-4e0b-8894-ac4600f98479)]
 3. [Python Scripts](https://github.com/caam37830/materials/blob/master/lectures/01/script.py) [[Download](https://raw.githubusercontent.com/caam37830/materials/master/lectures/01/script.py)] [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2271ead1-8c05-488f-92aa-ac3a0001d6d2)]
 
 ### Reading
