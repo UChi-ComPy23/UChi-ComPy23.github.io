@@ -78,7 +78,7 @@ In abnormal circumstances, please reach out to the instruction staff for accomod
 
 You are encouraged to collaborate with others in the class and use the internet to help with solving problems.
 
-When working with others, you can discuss problems and solutions, but **do not copy code**.  Note anyone you who contributed to your solution in a comment in your code.
+When working with others, you can discuss problems and solutions, but **do not copy code**.  Note anyone you who contributed to your solution in a comment in your code.  Same goes for any written answers (write your own, acknowledge others).
 
 If you find helpful information online (e.g. on stackoverflow), put a note about what you used as well as the url in a comment in your code.  There are only so many ways to call a function, and it is perfectly acceptable to copy and paste a line or two of code (with a comment).
 
