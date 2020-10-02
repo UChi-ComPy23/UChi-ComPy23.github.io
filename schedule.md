@@ -23,7 +23,9 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 ## Day 01 - 10/2
 
 ### Homework
+* see the [git tutorial](https://github.com/caam37830/git-tutorial) if you are not familiar with git version control.
 * Homework 0 released
+
 
 ### Class Material
 0. [Bits, Bytes, and Numbers](https://caam37830.github.io/book/00_python/bitsbytes.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cfd8da52-3959-4165-bcb2-ac3e015fdfbb)]
