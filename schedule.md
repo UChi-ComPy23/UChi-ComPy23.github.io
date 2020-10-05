@@ -42,9 +42,14 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 
 ### Class Material
 
-0. [Functions in Python](https://caam37830.github.io/book/00_python/functions.html)
-1. [Decorators](https://caam37830.github.io/book/00_python/decorators.html)
-2. [Recursion](https://caam37830.github.io/book/01_analysis/recursion.html)
+0. [Functions in Python](https://caam37830.github.io/book/00_python/functions.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=59fb230c-fba2-4a54-a245-ac46010e661b)]
+1. [Decorators](https://caam37830.github.io/book/00_python/decorators.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1e8cd2d8-3abf-4de6-a5a5-ac4800fcc75f)]
+2. [Recursion](https://caam37830.github.io/book/01_analysis/recursion.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ac287191-648b-44ec-9697-ac4801139a3e)]
+
+### Reading
+* [Functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions) **Required**
+* [More on defining functions](https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions) **Required**
+* [Function definitions](https://docs.python.org/3/reference/compound_stmts.html#function-definitions) **Recommended**
 
 ## Day 03 - 10/7
 
@@ -52,6 +57,11 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 
 0. [Python Objects, OOP](https://caam37830.github.io/book/00_python/classes.html)
 1. [Modules and Packages](https://caam37830.github.io/book/00_python/modules.html)
+
+### Reading
+* [Classes](https://docs.python.org/3/tutorial/classes.html) **Required** at least through 9.5 (inheritance)
+* [Class definitions](https://docs.python.org/3/reference/compound_stmts.html#class-definitions) **Recommended**
+* [Modules](https://docs.python.org/3/tutorial/modules.html) **Required**
 
 ## Day 04 - 10/9
 
