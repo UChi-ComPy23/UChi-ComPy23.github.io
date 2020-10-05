@@ -55,8 +55,8 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 
 ### Class Material
 
-0. [Python Objects, OOP](https://caam37830.github.io/book/00_python/classes.html)
-1. [Modules and Packages](https://caam37830.github.io/book/00_python/modules.html)
+0. [Python Objects, OOP](https://caam37830.github.io/book/00_python/classes.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cd8471ae-78be-4c70-8a2d-ac48015b47c5)]
+1. [Modules and Packages](https://caam37830.github.io/book/00_python/modules.html) [[GitHub repository](https://github.com/caam37830/python-packages)] [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=342b5a77-c18d-44a4-9eb6-ac4b00ea2ac5)]
 
 ### Reading
 * [Classes](https://docs.python.org/3/tutorial/classes.html) **Required** at least through 9.5 (inheritance)
