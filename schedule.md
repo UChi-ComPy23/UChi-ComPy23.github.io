@@ -66,13 +66,17 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 ## Day 04 - 10/9
 
 ### Homework
-* Homework 0 due
+* Homework 0 due - 12pm CST
 * Homework 1 released
 
 ### Class Material
 
-0. Root Finding
-1. Convergence of Algorithms
+0. [Convergence of Algorithms](https://caam37830.github.io/book/01_analysis/convergence.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cbcd8c50-bde3-4245-bb4d-ac4c011262c3)]
+1. [Root Finding](https://caam37830.github.io/book/04_functions/roots.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4c306204-aed9-4851-8bfe-ac4c0145aec9)]
+
+### Reading
+
+* [Newton's Method](https://mathworld.wolfram.com/NewtonsMethod.html) on Wolfram Mathworld **Recommended**
 
 
 ## Day 05 - 10/12
