@@ -23,7 +23,7 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 ## Day 01 - 10/2
 
 ### Homework
-* see the [git tutorial](https://github.com/caam37830/git-tutorial) if you are not familiar with git version control.
+* see the [git tutorial](https://github.com/caam37830/git-tutorial) if you are not familiar with git version control. [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c213fff-5ce6-46a5-a673-ac4d00de5526)]
 * Homework 0 released
 
 
