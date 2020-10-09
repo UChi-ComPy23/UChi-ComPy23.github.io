@@ -69,6 +69,8 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 * Homework 0 due - 12pm CST
 * Homework 1 released
 
+If you are still new to git, see [collaboriating with git](https://github.com/caam37830/git-tutorial/blob/master/collaborating.md) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3bdb5733-3c8c-4c52-a906-ac4e000ed3f7)]
+
 ### Class Material
 
 0. [Convergence of Algorithms](https://caam37830.github.io/book/01_analysis/convergence.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cbcd8c50-bde3-4245-bb4d-ac4c011262c3)]
@@ -83,9 +85,8 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 
 ### Class Material
 
-0. [Vectorization, numpy ufuncs, numba](https://caam37830.github.io/book/09_computing/performance/numpy_ufuncs.html)
-1. [Memory layout](https://caam37830.github.io/book/02_linear_algebra/memory.html)
-2. Performance profiling
+0. [Vectorization, numpy ufuncs, numba](https://caam37830.github.io/book/09_computing/performance/numpy_ufuncs.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=220a75be-12c5-41c0-b8d7-ac4e010a7b88)]
+1. [Memory layout](https://caam37830.github.io/book/02_linear_algebra/memory.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a24bfdd-db19-4afd-9283-ac4f00173405)]
 
 ### Reading
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 13 - 18 (Creation of matrices) **required**
@@ -143,6 +144,7 @@ This course follows a Monday, Wednesday, Friday schedule.  There is a section fo
 
 0. [Python Iterators and Generators](https://caam37830.github.io/book/00_python/iterators.html)
 1. `setuptools`, package deployment
+2. Performance profiling
 
 ## Day 11 - 10/26
 
