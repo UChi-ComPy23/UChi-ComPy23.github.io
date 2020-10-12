@@ -96,9 +96,9 @@ If you are still new to git, see [collaboriating with git](https://github.com/ca
 
 ### Class Material
 
-0. NumPy broadcasting
-1. Linear algebra in NumPy
-2. Linear algebra in SciPy
+0. [Dense Linear Algebra](https://caam37830.github.io/book/02_linear_algebra/numpy_scipy_linalg.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=66843d8b-9c61-4e29-ad87-ac52012ff52f)]
+
+If you don't have much prior experience with matrix factorizations, it is highly recommended to go through the exercises in the notebook.
 
 ### Reading
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 28 - 38 (Basic Matrix Manipulation) **required**
