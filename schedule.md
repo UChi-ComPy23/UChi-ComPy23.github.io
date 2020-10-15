@@ -112,8 +112,13 @@ If you don't have much prior experience with matrix factorizations, it is highly
 
 ### Class Material
 
-0. [SciPy BLAS Interface](https://caam37830.github.io/book/02_linear_algebra/blas_lapack.html)
-1. [SciPy LAPACK Interface](https://caam37830.github.io/book/02_linear_algebra/blas_lapack.html)
+0. [SciPy BLAS and LAPACK Interfaces](https://caam37830.github.io/book/02_linear_algebra/blas_lapack.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a38e3a0-bab1-452f-ade0-ac5501021004)]
+
+### Reading
+
+* [LAPACK on netlib](https://www.netlib.org/lapack/) **Recommended**
+* [BLAS on netlib](https://www.netlib.org/blas/) **Recommended**
+
 
 ## Day 08 - 10/19
 
