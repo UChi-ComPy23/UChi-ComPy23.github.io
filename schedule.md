@@ -128,17 +128,18 @@ If you don't have much prior experience with matrix factorizations, it is highly
 1. [Linear operators](https://caam37830.github.io/book/02_linear_algebra/linearoperators.html)
 
 ### Reading
-* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **Required**
 
 ## Day 09 - 10/21
 
-0. Iterative Methods
-1. ARPACK
-2. Randomized linear algebra
+0. [Sparse Linear Algebra](https://caam37830.github.io/book/02_linear_algebra/sparse_linalg.html)
+
+Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 
 ### Reading
-* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 44 - 51 (Sparse direct, iterative methods) **required**
-* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 56 - 57 (`eigs`, `eigsh`) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 44 - 51 (Sparse direct, iterative methods) **Required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 56 - 57 (`eigs`, `eigsh`) **Required**
+* [Finding Structure with Randomness: Probabilistic Algorithms for Constructing Approximate Matrix Decompositions](http://users.cms.caltech.edu/~jtropp/papers/HMT11-Finding-Structure-SIREV.pdf) **Recommended**
 
 ## Day 10 - 10/23
 ### Homework
