@@ -124,22 +124,22 @@ If you don't have much prior experience with matrix factorizations, it is highly
 
 ### Class Material
 
-0. [Sparse matrix formats, `scipy.sparse`](https://caam37830.github.io/book/02_linear_algebra/sparse.html)
-1. [Linear operators](https://caam37830.github.io/book/02_linear_algebra/linearoperators.html)
+0. [Sparse matrix formats, `scipy.sparse`](https://caam37830.github.io/book/02_linear_algebra/sparse.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6b94668f-da29-4c0b-9598-ac5801542fa2)]
+1. [Linear operators](https://caam37830.github.io/book/02_linear_algebra/linearoperators.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fc3ddbc9-110a-46a3-914c-ac58015930cd)]
 
 ### Reading
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **Required**
 
 ## Day 09 - 10/21
 
-0. [Sparse Linear Algebra](https://caam37830.github.io/book/02_linear_algebra/sparse_linalg.html)
+0. [Sparse Linear Algebra](https://caam37830.github.io/book/02_linear_algebra/sparse_linalg.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef9c073a-cff2-41fd-8142-ac58015ca38b)]
 
 Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 
 ### Reading
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 44 - 51 (Sparse direct, iterative methods) **Required**
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 56 - 57 (`eigs`, `eigsh`) **Required**
-* [Finding Structure with Randomness: Probabilistic Algorithms for Constructing Approximate Matrix Decompositions](http://users.cms.caltech.edu/~jtropp/papers/HMT11-Finding-Structure-SIREV.pdf) **Recommended**
+* [Finding Structure with Randomness: Probabilistic Algorithms for Constructing Approximate Matrix Decompositions](http://users.cms.caltech.edu/~jtropp/papers/HMT11-Finding-Structure-SIREV.pdf) (Halko, Martinsson, Tropp. 2009) **Recommended** - you can just skim and read the algorithms on a first pass.
 
 ## Day 10 - 10/23
 ### Homework
