@@ -148,21 +148,31 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 
 ### Class Material
 
-0. [Python Iterators and Generators](https://caam37830.github.io/book/00_python/iterators.html)
-1. `setuptools`, package deployment
-2. Performance profiling
+0. [Python Iterators and Generators](https://caam37830.github.io/book/00_python/iterators.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=42729939-d64c-4961-a2e9-ac5d00e6ac9f)]
+1. [Agent-based modeling](https://caam37830.github.io/book/09_computing/agent_based_models.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=52e2ee0e-5576-4f1d-a289-ac5d00ec9b21)]
+
+
+### Reading
+
+* [Python Tutorial on Iterators](https://docs.python.org/3/tutorial/classes.html#iterators) **Required**
+* [Python Tutorial on Generators](https://docs.python.org/3/tutorial/classes.html#generators) **Required**
+* E. Bonabeau [Agent-based modeling: Methods and techniques for simulating human systems (2002)](https://www.pnas.org/content/99/suppl_3/7280) **Recommended**
+
+You may also want to look at the [Wikipedia entry for Agent-based model](https://en.wikipedia.org/wiki/Agent-based_model)
 
 ## Day 11 - 10/26
 
 ### Class Material
-0. [Symbolic Computing with SymPy](https://caam37830.github.io/book/04_functions/sympy.html)
-1. Basic Interpolation
+0. Differentiation
+1. Integration/Quadrature
+
 
 ## Day 12 - 10/28
 
 ### Class Material
-0. Differentiation
-1. Integration/Quadrature
+0. Numerical ODEs
+1. Linear PDEs
+
 
 ## Day 13 - 10/30
 ### Homework
@@ -170,10 +180,16 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 * Homework 4 released
 
 ### Class Material
-0. Numerical ODEs
-1. Linear PDEs
+
+0. `setuptools`, package deployment
+1. Unit testing
+
+
 
 ## Day 14 - 11/2
+1. Performance profiling
+2. [Symbolic Computing with SymPy](https://caam37830.github.io/book/04_functions/sympy.html)
+3. Basic Interpolation
 
 ## Day 15 - 11/4
 
