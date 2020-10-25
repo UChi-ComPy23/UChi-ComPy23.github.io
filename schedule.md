@@ -163,8 +163,13 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 ## Day 11 - 10/26
 
 ### Class Material
-0. Differentiation
-1. Integration/Quadrature
+0. [Symbolic Computing with SymPy](https://caam37830.github.io/book/04_functions/sympy.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=95c01243-82b0-48b6-9c63-ac5f01023c86)]
+1. [Differentiation](https://caam37830.github.io/book/04_functions/differentiation.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=213cbc8f-8669-4e52-a4b2-ac5f0105e1ce)]
+
+### Reading
+
+* [SymPy Introduction](https://docs.sympy.org/latest/tutorial/intro.html) **Required** Look around the [documentation](https://docs.sympy.org/latest/index.html) as well.
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 105 - 110 (Differentiation) **Required**
 
 
 ## Day 12 - 10/28
@@ -188,10 +193,11 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 
 ## Day 14 - 11/2
 1. Performance profiling
-2. [Symbolic Computing with SymPy](https://caam37830.github.io/book/04_functions/sympy.html)
+
 3. Basic Interpolation
 
 ## Day 15 - 11/4
+1. Quadrature
 
 ## Day 16 - 11/6
 ### Homework
