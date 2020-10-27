@@ -175,8 +175,13 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 ## Day 12 - 10/28
 
 ### Class Material
-0. Numerical ODEs
-1. Linear PDEs
+0. [Initial Value Problems](https://caam37830.github.io/book/04_functions/ode_initial.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ab7ef06-6f2f-4a28-be28-ac61014c29b9)]
+
+### Reading
+
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 165 - 178 (Initial Value Problems) **Required**
+* [SciPy `solve_ivp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html) **Required**
+
 
 
 ## Day 13 - 10/30
@@ -186,20 +191,22 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 
 ### Class Material
 
-0. `setuptools`, package deployment
-1. Unit testing
+0. Unit testing
+1. `setuptools`, package deployment
 
+### Reading
 
 
 ## Day 14 - 11/2
-1. Performance profiling
-
-3. Basic Interpolation
+0. Performance profiling
+1. Basic Interpolation
 
 ## Day 15 - 11/4
 1. Quadrature
 
 ## Day 16 - 11/6
+0. Linear PDEs
+
 ### Homework
 * Homework 4 due
 * Homework 5 released
