@@ -191,10 +191,15 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 
 ### Class Material
 
-0. Unit testing
+0. [Unit testing](https://caam37830.github.io/book/09_computing/unittest.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b8c62cb-3740-47db-bfa1-ac62013ec25d)]
 1. `setuptools`, package deployment
 
+[Link to `python-packages` repository](https://github.com/caam37830/python-packages) which is used in the videos.
+
 ### Reading
+
+* [`unittest` documentation](https://docs.python.org/3.8/library/unittest.html) **Required** at least skim it to see what is in there.
+* [Introduction to GitHub actions](https://docs.github.com/en/free-pro-team@latest/actions/learn-github-actions/introduction-to-github-actions) **Required** again, skim to see what is in there
 
 
 ## Day 14 - 11/2
@@ -216,6 +221,10 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 ## Day 18 - 11/11
 
 ## Day 19 - 11/13
+### Project
+
+Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-project/blob/main/midterm_checkpoint.md).
+
 ### Homework
 * Homework 5 due
 * Homework 6 released
@@ -235,6 +244,7 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 
 ## Day 23 - 11/30
 
+
 ## Day 24 - 12/2
 
 ## Day 25 - 12/4
@@ -247,4 +257,4 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 
 ## Finals Period
 
-The group project will be due during finals period.  Details to be determined.
+Final Project due 12/9.  See [repository](https://github.com/caam37830/default-project)
