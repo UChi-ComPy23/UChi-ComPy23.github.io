@@ -192,19 +192,25 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 ### Class Material
 
 0. [Unit testing](https://caam37830.github.io/book/09_computing/unittest.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b8c62cb-3740-47db-bfa1-ac62013ec25d)]
-1. `setuptools`, package deployment
+1. [`setuptools`, packaging](https://github.com/caam37830/python-packages) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6e382e06-8642-4778-956b-ac630142e712)]
 
 [Link to `python-packages` repository](https://github.com/caam37830/python-packages) which is used in the videos.
 
 ### Reading
 
 * [`unittest` documentation](https://docs.python.org/3.8/library/unittest.html) **Required** at least skim it to see what is in there.
-* [Introduction to GitHub actions](https://docs.github.com/en/free-pro-team@latest/actions/learn-github-actions/introduction-to-github-actions) **Required** again, skim to see what is in there
+* [Introduction to GitHub actions](https://docs.github.com/en/free-pro-team@latest/actions/learn-github-actions/introduction-to-github-actions) **Recommended** again, skim to see what is in there
+* [Python packaging](https://packaging.python.org/tutorials/packaging-projects/) **Required**
 
 
 ## Day 14 - 11/2
-0. Performance profiling
+0. Intermediate PyPlot
 1. Basic Interpolation
+
+### Reading
+
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 61 - 104 (Interpolation and Approximation) **Required**
+* [SciPy interpolation tutorial](https://docs.scipy.org/doc/scipy/reference/tutorial/interpolate.html) **Recommended**
 
 ## Day 15 - 11/4
 1. Quadrature
