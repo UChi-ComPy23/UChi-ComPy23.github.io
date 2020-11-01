@@ -204,16 +204,22 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 
 
 ## Day 14 - 11/2
-0. Intermediate PyPlot
-1. Basic Interpolation
+0. [More on Plotting](https://caam37830.github.io/book/00_python/pyplot.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9610eac-7be4-46cd-9fb7-ac66010c2f0c)]
+1. [Basic Interpolation](https://caam37830.github.io/book/04_functions/interpolation.html)  [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff708013-f7d7-430c-a6cd-ac6601111153)]
 
 ### Reading
 
-* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 61 - 104 (Interpolation and Approximation) **Required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 61 - 104 (Interpolation and Approximation) **Required**
 * [SciPy interpolation tutorial](https://docs.scipy.org/doc/scipy/reference/tutorial/interpolate.html) **Recommended**
+* [PyPlot Use FAQ](https://matplotlib.org/faq/usage_faq.html) **Required** (first half)
+* [Matplotlib tutorials](https://matplotlib.org/tutorials/index.html) **Recommended** take a look around
 
 ## Day 15 - 11/4
-1. Quadrature
+0. Integration, Quadrature
+
+### Reading
+
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 111-123
 
 ## Day 16 - 11/6
 0. Linear PDEs
