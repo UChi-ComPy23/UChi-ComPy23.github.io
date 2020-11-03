@@ -215,11 +215,14 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 * [Matplotlib tutorials](https://matplotlib.org/tutorials/index.html) **Recommended** take a look around
 
 ## Day 15 - 11/4
-0. Integration, Quadrature
+0. [Intro to RCC](https://github.com/caam37830/rcc-resources) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a48340b2-ed88-4888-9985-ac65016fc03a) by Yian]
+0. [Integration, Quadrature](https://caam37830.github.io/book/04_functions/integration.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=237e5385-393b-4ea6-8d6c-ac68010c51ae)]
 
 ### Reading
 
-* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 111-123
+* [RCC User Guide](https://rcc.uchicago.edu/docs/) **Recommended** to familiarize yourself with what is available
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 111-123 **Required**
+* [`scipy.integrate.quad`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.quad.html#scipy.integrate.quad) **Recommended**
 
 ## Day 16 - 11/6
 0. Linear PDEs
