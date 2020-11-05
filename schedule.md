@@ -204,6 +204,8 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 
 
 ## Day 14 - 11/2
+
+### Class Material
 0. [More on Plotting](https://caam37830.github.io/book/00_python/pyplot.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c9610eac-7be4-46cd-9fb7-ac66010c2f0c)]
 1. [Basic Interpolation](https://caam37830.github.io/book/04_functions/interpolation.html)  [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff708013-f7d7-430c-a6cd-ac6601111153)]
 
@@ -215,6 +217,8 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 * [Matplotlib tutorials](https://matplotlib.org/tutorials/index.html) **Recommended** take a look around
 
 ## Day 15 - 11/4
+
+### Class Material
 0. [Intro to RCC](https://github.com/caam37830/rcc-resources) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a48340b2-ed88-4888-9985-ac65016fc03a) by Yian]
 0. [Integration, Quadrature](https://caam37830.github.io/book/04_functions/integration.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=237e5385-393b-4ea6-8d6c-ac68010c51ae)]
 
@@ -225,11 +229,19 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 * [`scipy.integrate.quad`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.quad.html#scipy.integrate.quad) **Recommended**
 
 ## Day 16 - 11/6
-0. Linear PDEs
 
 ### Homework
 * Homework 4 due
 * Homework 5 released
+
+### Class Material
+0. [Optimization](https://caam37830.github.io/book/03_optimization/scipy_opt.html)  [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=27429d55-5313-4b53-a9df-ac6a015291b4)]
+
+### Reading
+
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 125-163 (Optimization) **Required** OK to skim over code.
+* [SciPy Optimize Tutorial](https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html) **Recommended**
+
 
 ## Day 17 - 11/9
 
