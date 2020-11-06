@@ -253,10 +253,14 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-project/blob/main/midterm_checkpoint.md).
 
 ### Homework
-* Homework 5 due
 * Homework 6 released
 
+
+
 ## Day 20 - 11/16
+### Homework
+* Homework 5 due
+
 
 ## Day 21 - 11/18
 
