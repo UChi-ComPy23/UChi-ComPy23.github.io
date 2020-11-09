@@ -245,6 +245,15 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 
 ## Day 17 - 11/9
 
+### Class Material
+0. [Boundary Value Problems](https://caam37830.github.io/book/04_functions/bvp.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bcb77777-78fa-4f27-9cfe-ac6e00f06774)]
+
+### Reading
+
+* [SciPy `integrate.solve_bvp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_bvp.html) **Recommended**
+* [SymPy `ode.dsolve`](https://docs.sympy.org/latest/modules/solvers/ode.html#dsolve) **Recommended**
+
+
 ## Day 18 - 11/11
 
 ## Day 19 - 11/13
