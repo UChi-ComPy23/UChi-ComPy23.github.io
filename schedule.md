@@ -256,6 +256,15 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 
 ## Day 18 - 11/11
 
+### Class Material
+
+0. [Pandas](https://caam37830.github.io/book/07_data/pandas.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e6d38db-2124-465f-9486-ac70010df1a9)]
+
+### Reading
+
+* [Python for data analysis](https://catalog.lib.uchicago.edu/vufind/Record/11608533) by Wes McKinney Ch. 5 (Pandas) **Required** (you can download the chapter or the whole book through the library with a UChicago account)
+* [Pandas Tutorials](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) **Recommended** to skim and see if you find something relevant
+
 ## Day 19 - 11/13
 ### Project
 
