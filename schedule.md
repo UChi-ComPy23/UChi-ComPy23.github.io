@@ -273,6 +273,16 @@ Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-p
 ### Homework
 * Homework 6 released
 
+### Class Material
+
+0. [Scikit Learn](https://caam37830.github.io/book/07_data/sklearn.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=20f3793f-11a4-4977-8b3b-ac7101506679)]
+
+
+### Reading
+
+* [Scikit learn introduction](https://scikit-learn.org/stable/tutorial/basic/tutorial.html) **Required**
+* [Scikit learn user guide](https://scikit-learn.org/stable/user_guide.html) **Recommended** Just look through what the possibilities are
+
 
 
 ## Day 20 - 11/16
