@@ -303,16 +303,25 @@ Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-p
 
 ### Class Material
 
-0. Graphs/NetworkX
+0. [Graphs](https://caam37830.github.io/book/05_graphs/graphs.html)
+1. [NetworkX](https://caam37830.github.io/book/05_graphs/networkx.html)
 
 ### Reading
 
-* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 199-202 (Shortest Path Problems) **Recommended** 
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 199-202 (Shortest Path Problems) **Recommended**
 
 ## Day 22 - 11/20
 ### Homework
 * Homework 6 due
 * Homework 7 released
+
+### Class Material
+
+0. [Spectral Graph Theory](https://caam37830.github.io/book/05_graphs/spectral.html)
+1. [Dimensionality Reduction, Plotly](https://caam37830.github.io/book/07_data/dimension_reduction.html)
+
+### Reading
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 292-298 (Dimensionality Reduction) **Required**
 
 ## Thanksgiving Break
 
