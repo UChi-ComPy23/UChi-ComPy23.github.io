@@ -282,15 +282,32 @@ Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-p
 
 * [Scikit learn introduction](https://scikit-learn.org/stable/tutorial/basic/tutorial.html) **Required**
 * [Scikit learn user guide](https://scikit-learn.org/stable/user_guide.html) **Recommended** Just look through what the possibilities are
-
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 275-309 (Inference and Data Analysis) **Recommended**  - There are some examples with Scikit learn in there.
 
 
 ## Day 20 - 11/16
 ### Homework
 * Homework 5 due
 
+### Class Material
+
+0. [Distances](https://caam37830.github.io/book/08_geometry/distances.html)
+1. [Nearest Neighbor Queries](https://caam37830.github.io/book/08_geometry/nearestneighbor.html)
+
+### Reading
+
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 205-209 (Nearest Neighbors and Range Searching) **Required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 179-216 (Computational Geometry) **Optional**  (We're not going to cover Hulls, Triangulations, and Bezier Curves)
 
 ## Day 21 - 11/18
+
+### Class Material
+
+0. Graphs/NetworkX
+
+### Reading
+
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 199-202 (Shortest Path Problems) **Recommended** 
 
 ## Day 22 - 11/20
 ### Homework
