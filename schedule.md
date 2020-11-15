@@ -291,8 +291,8 @@ Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-p
 
 ### Class Material
 
-0. [Distances](https://caam37830.github.io/book/08_geometry/distances.html)
-1. [Nearest Neighbor Queries](https://caam37830.github.io/book/08_geometry/nearestneighbor.html)
+0. [Distances](https://caam37830.github.io/book/08_geometry/distances.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3254a503-34fc-430f-8f85-ac740141c707)]
+1. [Nearest Neighbor Queries](https://caam37830.github.io/book/08_geometry/nearestneighbor.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c63f19e4-3090-404f-a375-ac74014acb22)]
 
 ### Reading
 
@@ -303,12 +303,13 @@ Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-p
 
 ### Class Material
 
-0. [Graphs](https://caam37830.github.io/book/05_graphs/graphs.html)
+0. [Graphs](https://caam37830.github.io/book/05_graphs/graphs.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b8f82dfc-ee79-4192-b701-ac74014f38d9)]
 1. [NetworkX](https://caam37830.github.io/book/05_graphs/networkx.html)
 
 ### Reading
 
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 199-202 (Shortest Path Problems) **Recommended**
+* [NetworkX Tutorial](https://networkx.org/documentation/stable/tutorial.html) **Recommended**
 
 ## Day 22 - 11/20
 ### Homework
