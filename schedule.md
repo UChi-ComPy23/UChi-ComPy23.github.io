@@ -304,7 +304,7 @@ Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-p
 ### Class Material
 
 0. [Graphs](https://caam37830.github.io/book/05_graphs/graphs.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b8f82dfc-ee79-4192-b701-ac74014f38d9)]
-1. [NetworkX](https://caam37830.github.io/book/05_graphs/networkx.html)
+1. [NetworkX](https://caam37830.github.io/book/05_graphs/networkx.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=76297b07-9e4a-424f-acad-ac750142027b)]
 
 ### Reading
 
