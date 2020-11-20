@@ -318,11 +318,12 @@ Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-p
 
 ### Class Material
 
-0. [Spectral Graph Theory](https://caam37830.github.io/book/05_graphs/spectral.html)
-1. [Dimensionality Reduction, Plotly](https://caam37830.github.io/book/07_data/dimension_reduction.html)
+0. [Spectral Graph Theory](https://caam37830.github.io/book/05_graphs/spectral.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6075b0f7-f39d-4c05-9c8e-ac79011248cc)]
+1. [Dimensionality Reduction, Plotly](https://caam37830.github.io/book/07_data/dimension_reduction.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d05dda2-6329-437a-84dd-ac79015219f0)]
 
 ### Reading
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 292-298 (Dimensionality Reduction) **Required**
+* [Tutorial on Spectral Clustering](https://people.csail.mit.edu/dsontag/courses/ml14/notes/Luxburg07_tutorial_spectral_clustering.pdf) by Ulrike von Luxburg **Optional**
 
 ## Thanksgiving Break
 
