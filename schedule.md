@@ -331,12 +331,34 @@ Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-p
 
 ## Day 23 - 11/30
 
+### Class Material
+
+0. [Linear Algebra in PyTorch](https://caam37830.github.io/book/02_linear_algebra/pytorch.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b6de9446-3d35-456d-bb69-ac8201504d46)]
+1. [Basic Neural Networks in PyTorch](https://caam37830.github.io/book/07_data/pytorch.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=625ca8a2-6792-4d62-b446-ac8201534c03)]
+
+### Reading
+
+* [PyTorch Tutorials](https://pytorch.org/tutorials/) check them out to see if there is something that matches your interests **Optional**
 
 ## Day 24 - 12/2
+
+### Class Material
+
+0. [Convolutions & FFT](https://caam37830.github.io/book/02_linear_algebra/convolutions.html)
+
+### Reading
+
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 311-374 (Image Processing) **Optional**
+
 
 ## Day 25 - 12/4
 ### Homework
 * Homework 7 due
+
+### Class Material
+
+
+### Reading
 
 ## Reading Period
 
