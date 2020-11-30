@@ -344,10 +344,11 @@ Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-p
 
 ### Class Material
 
-0. [Convolutions & FFT](https://caam37830.github.io/book/02_linear_algebra/convolutions.html)
+0. [Convolutions & FFT](https://caam37830.github.io/book/02_linear_algebra/convolutions.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=923237a4-7249-4a7c-b51b-ac830168e0b1)]
 
 ### Reading
 
+* [FFT Algorithm](https://www.ams.org/journals/mcom/1965-19-090/S0025-5718-1965-0178586-1/home.html) by Cooley and Tukey **Recommended**
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 311-374 (Image Processing) **Optional**
 
 
