@@ -358,8 +358,13 @@ Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-p
 
 ### Class Material
 
+0. [Scipy stats](https://caam37830.github.io/book/06_probability_statistics/scipy_stats.html) [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e3708493-655d-4390-a77f-ac840164da02)]
+
 
 ### Reading
+
+* [SciPy stats tutorial](https://docs.scipy.org/doc/scipy/reference/tutorial/stats.html) **Recommended**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 217-274 (Descriptive Statistics) **Recommended**
 
 ## Reading Period
 
