@@ -1,5 +1,7 @@
 # Schedule
 
+**This Schedule is for Fall 2020.  It will be updated for Winter 2022.**
+
 This course follows a Monday, Wednesday, Friday schedule.  There is a section for each day, with materials for that day.  This schedule is subject to change before a class is held.
 
 ## Day 00 - 9/30
