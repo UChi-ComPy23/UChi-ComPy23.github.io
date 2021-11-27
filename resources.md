@@ -9,6 +9,14 @@ covered in this class
 
 ## Python
 
+## Programming
+
+* [Composing Programs](http://composingprograms.com/) - a free online Python-based resource that follows the [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html) book.  It is the basis for [CS61a at UC Berkeley](https://cs61a.org/).
+
 ### Design
 * Design of packaging system in [The Architecture of Open Source Applications](http://aosabook.org/en/packaging.html)
 * Standard library design decisions [blogpost by death and gravity](https://death.andgravity.com/stdlib)
+
+## Beyond This Course
+
+* [teachyourselfcs.com](https://teachyourselfcs.com/) - suggested resources for a variety of core topics in computer science which you might find useful.
