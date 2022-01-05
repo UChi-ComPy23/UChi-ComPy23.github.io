@@ -13,6 +13,10 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 ## Day 00 - 1/10
 ### Class Material
+0. [Python Basics](https://caam37830.github.io/book/00_python/basics.html)
+1. [Bits, Bytes, and Numbers](https://caam37830.github.io/book/00_python/bitsbytes.html)
+2. [Basic Containers and Packages](https://caam37830.github.io/book/00_python/basic_packages.html)
+3. [Python Scripts](https://github.com/caam37830/materials/blob/master/lectures/01/script.py) [[Download](https://raw.githubusercontent.com/caam37830/materials/master/lectures/01/script.py)]
 
 ### Reading
 
@@ -23,15 +27,15 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 * Homework 0 released
 
 ### Class Material
+0. [Functions in Python](https://caam37830.github.io/book/00_python/functions.html)
+1. [Asymptotic notation](https://caam37830.github.io/book/01_analysis/asymptotic_notation.html)
+2. [Decorators](https://caam37830.github.io/book/00_python/decorators.html)
+3. [Recursion](https://caam37830.github.io/book/01_analysis/recursion.html)
 
 ### Reading
 
 ## Day 02 - 1/17
 **MLK Day.  No class**
-
-### Class Material
-
-### Reading
 
 ## Day 03 - 1/19
 
@@ -41,11 +45,18 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 ### Class Material
 
+0. [Python Objects, OOP](https://caam37830.github.io/book/00_python/classes.html)
+[Modules and Packages](https://caam37830.github.io/book/00_python/modules.html) [[GitHub repository](https://github.com/caam37830/python-packages)]
+
 ### Reading
 
 ## Day 04 - 1/24
 
 ### Class Material
+
+0. [Convergence of Algorithms](https://caam37830.github.io/book/01_analysis/convergence.html)
+1. [Root Finding](https://caam37830.github.io/book/04_functions/roots.html)
+2. [Vectorization, numpy ufuncs, numba](https://caam37830.github.io/book/09_computing/performance/numpy_ufuncs.html)
 
 ### Reading
 
@@ -57,11 +68,19 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 ### Class Material
 
+0. [Memory layout](https://caam37830.github.io/book/02_linear_algebra/memory.html)
+1. [Dense Linear Algebra](https://caam37830.github.io/book/02_linear_algebra/numpy_scipy_linalg.html)
+2. [SciPy BLAS and LAPACK Interfaces](https://caam37830.github.io/book/02_linear_algebra/blas_lapack.html)
+
+If you don't have much prior experience with matrix factorizations, it is highly recommended to go through the exercises in the notebook.
+
 ### Reading
 
 ## Day 06 - 1/31
 
 ### Class Material
+0. [Sparse matrix formats, `scipy.sparse`](https://caam37830.github.io/book/02_linear_algebra/sparse.html)
+1. [Linear operators](https://caam37830.github.io/book/02_linear_algebra/linearoperators.html)
 
 ### Reading
 
@@ -73,11 +92,19 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 ### Class Material
 
+0. [Sparse Linear Algebra](https://caam37830.github.io/book/02_linear_algebra/sparse_linalg.html)
+
+Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
+
 ### Reading
 
 ## Day 08 - 2/7
 
 ### Class Material
+
+0. [Symbolic Computing with SymPy](https://caam37830.github.io/book/04_functions/sympy.html)
+1. [Differentiation](https://caam37830.github.io/book/04_functions/differentiation.html)
+2. [Initial Value Problems](https://caam37830.github.io/book/04_functions/ode_initial.html)
 
 ### Reading
 
@@ -88,20 +115,26 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 * Homework 4 released
 
 ### Class Material
+0. [Unit testing](https://caam37830.github.io/book/09_computing/unittest.html)
+1. [`setuptools`, packaging](https://github.com/caam37830/python-packages)
+2. [More on Plotting](https://caam37830.github.io/book/00_python/pyplot.html)
 
 ### Reading
 
 ## Day 10 - 2/14
 
 ### Class Material
+0. [Basic Interpolation](https://caam37830.github.io/book/04_functions/interpolation.html)
+1. [Integration, Quadrature](https://caam37830.github.io/book/04_functions/integration.html)
+2. [Intro to RCC](https://github.com/caam37830/rcc-resources)
 
 ### Reading
 
 ## Day 11 - 2/16
 
 ### Homework
-* Homework 5 due
-* Homework 6 released
+* Homework 4 due
+* Homework 5 released
 
 ### Class Material
 
@@ -116,8 +149,8 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 ## Day 13 - 2/23
 
 ### Homework
-* Homework 6 due
-* Homework 7 released
+* Homework 5 due
+* Homework 6 released
 
 ### Class Material
 
@@ -132,8 +165,8 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 ## Day 15 - 3/2
 
 ### Homework
-* Homework 7 due
-* Homework 8 released
+* Homework 6 due
+* Homework 7 released
 
 ### Class Material
 
@@ -148,7 +181,7 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 ## Day 17 - 3/9
 
 ### Homework
-* Homework 8 due
+* Homework 7 due
 
 ### Class Material
 

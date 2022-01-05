@@ -18,6 +18,12 @@ Problem solving sessions and office hours will not be recorded, so you can feel 
 
 We will open discussion topics on Canvas where you can ask (or answer) questions as well.  This may be the best way to get help at odd hours or find others to work with.
 
+### Prerequisites
+
+Multivariable calculus, Linear algebra, prior programming experience (not necessarily in Python).
+
+Because this is an introductory graduate-level course, the Prerequisites are fairly informal and minimal.  Since we're doing scientific computing, we'll assume some basic familiarity with high-school or introductory undergraduate physical science, and maybe some social science. We'll also assume familiarity with multivariable calculus and linear algebra.  We'll cover some ODEs and PDEs, but not at a level that requires significant prior experience.  Prior programming experience is assumed, but this can be informal.
+
 ### What you need for this course
 
 You will need
