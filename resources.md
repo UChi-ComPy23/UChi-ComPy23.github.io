@@ -20,3 +20,7 @@ covered in this class
 ## Beyond This Course
 
 * [teachyourselfcs.com](https://teachyourselfcs.com/) - suggested resources for a variety of core topics in computer science which you might find useful.
+
+## Related/Similar Courses
+
+* [Top-10 Algorithms Course](http://pi.math.cornell.edu/~web6140/) by Alex Townsend (Cornell)
