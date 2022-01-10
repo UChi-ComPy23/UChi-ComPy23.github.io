@@ -5,7 +5,7 @@ Course number: [CAAM 37830=STAT 37830](https://stat.uchicago.edu/academics/cours
 ## People
 Instructor:  [Brad Nelson](https://bnels.github.io/). William H. Kruskal Instructor in the Department of Statistics. Office Hours TBD.
 
-TA: Sue Parkinson. CAAM Ph.D. Office Hours TBD.
+TA: Sue Parkinson. CAAM Ph.D. Office Hours Tues 10am.
 
 
 ## Course Format
@@ -86,6 +86,8 @@ If you find helpful information online (e.g. on stackoverflow), put a note about
 You are welcome to make your solutions publicly available, but **please wait until after the assignment due date.**
 
 The group project will be judged collectively - you do not need to say who did what.  This will all be recorded by git logs anyways.
+
+You are welcome to use NLP-based tools like GitHub Co-pilot, but should be clear about what code was generated (same as stackoverflow).  Please explicitly note what code was automatically generated using start/end comments.
 
 ## Textbook & Readings
 
