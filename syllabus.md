@@ -32,8 +32,6 @@ You will need
 1. A computer, with the ability to install software and run programs
 2. An internet connection
 
-Videos for class material will be pre-recorded, so there won't be a need to tune-in in real time.  Office hours/problem solving sessions will be held over Zoom.
-
 We will assume you are running some [UNIX-based operating system](https://en.wikipedia.org/wiki/Unix) on your computer.  For most people, this will mean either Mac or Linux.  We will not support troubleshooting Windows issues - if you have windows on your computer, consider using the [Windows Linux Subsystem](https://docs.microsoft.com/en-us/windows/wsl/install-win10), or dual-booting or single-booting some version of Linux.
 
 In addition to a University of Chicago account, you'll need to create a [GitHub](https://github.com/) account as assignments will be distributed through GitHub classroom.  Any work you do will be kept in private repositories.  If you want, you can create a "burner" account that isn't associated with your primary account (if you already have one).
