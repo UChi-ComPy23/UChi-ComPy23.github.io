@@ -15,6 +15,8 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 ## Day 00 - 1/10
 ### Class Material
 
+[Lecture Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a2bb3677-e99d-46d2-a295-ae1a0062b9ef)
+
 [Slides for course introduction](https://docs.google.com/presentation/d/1wol5BAt3D22GiWSFORP2qHTLQnk7zqlePQI53QRaP0w/edit?usp=sharing)
 
 0. [Python Basics](https://caam37830.github.io/book/00_python/basics.html)
@@ -37,6 +39,9 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 * Homework 0 released
 
 ### Class Material
+
+[Lecure Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ee8e2b31-56b2-4fe3-b13f-ae1a0046d27f)
+
 0. [Functions in Python](https://caam37830.github.io/book/00_python/functions.html)
 1. [Asymptotic notation](https://caam37830.github.io/book/01_analysis/asymptotic_notation.html)
 2. [Decorators](https://caam37830.github.io/book/00_python/decorators.html)
