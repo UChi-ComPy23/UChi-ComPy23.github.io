@@ -40,7 +40,7 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 ### Class Material
 
-[Lecure Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ee8e2b31-56b2-4fe3-b13f-ae1a0046d27f)
+[Lecture Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ee8e2b31-56b2-4fe3-b13f-ae1a0046d27f)
 
 0. [Functions in Python](https://caam37830.github.io/book/00_python/functions.html)
 1. [Asymptotic notation](https://caam37830.github.io/book/01_analysis/asymptotic_notation.html)
