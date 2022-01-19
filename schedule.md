@@ -69,6 +69,10 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 ### Reading
 
+* [Classes](https://docs.python.org/3/tutorial/classes.html) **Required** at least through 9.5 (inheritance)
+* [Class definitions](https://docs.python.org/3/reference/compound_stmts.html#class-definitions) **Recommended**
+* [Modules](https://docs.python.org/3/tutorial/modules.html) **Required**
+
 ## Day 04 - 1/24
 
 ### Class Material
