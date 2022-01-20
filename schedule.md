@@ -64,6 +64,8 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 ### Class Material
 
+[Lecture Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b2a887eb-57ea-4253-b6fe-ae2201661778)
+
 0. [Python Objects, OOP](https://caam37830.github.io/book/00_python/classes.html)
 1. [Modules and Packages](https://caam37830.github.io/book/00_python/modules.html) [[GitHub repository](https://github.com/caam37830/python-packages)]
 
