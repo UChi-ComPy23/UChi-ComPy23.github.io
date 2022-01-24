@@ -85,6 +85,9 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 ### Reading
 
+* [Newton's Method](https://mathworld.wolfram.com/NewtonsMethod.html) on Wolfram Mathworld **Recommended**
+* [NumPy Ufuncs](https://numpy.org/doc/stable/reference/ufuncs.html) **Recommended**
+
 ## Day 05 - 1/26
 
 ### Homework
