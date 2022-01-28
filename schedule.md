@@ -79,6 +79,8 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 ### Class Material
 
+[Lecture Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4bb87e6b-fd7c-4d4e-8581-ae29013727f4)
+
 0. [Convergence of Algorithms](https://caam37830.github.io/book/01_analysis/convergence.html)
 1. [Root Finding](https://caam37830.github.io/book/04_functions/roots.html)
 2. [Vectorization, numpy ufuncs, numba](https://caam37830.github.io/book/09_computing/performance/numpy_ufuncs.html)
@@ -96,6 +98,8 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 ### Class Material
 
+[Lecture Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a823df1-69f9-4eae-a799-ae2b01147042)
+
 0. [Memory layout](https://caam37830.github.io/book/02_linear_algebra/memory.html)
 1. [Dense Linear Algebra](https://caam37830.github.io/book/02_linear_algebra/numpy_scipy_linalg.html)
 2. [SciPy BLAS and LAPACK Interfaces](https://caam37830.github.io/book/02_linear_algebra/blas_lapack.html)
@@ -109,6 +113,9 @@ If you don't have much prior experience with matrix factorizations, it is highly
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 38 - 41 (Matrix Factorizations) **required**
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 54 - 55 (Eigenvalue Decompositions) **required**
 
+* [LAPACK on netlib](https://www.netlib.org/lapack/) **Optional**
+* [BLAS on netlib](https://www.netlib.org/blas/) **Optional**
+
 ## Day 06 - 1/31
 
 ### Class Material
@@ -116,6 +123,7 @@ If you don't have much prior experience with matrix factorizations, it is highly
 1. [Linear operators](https://caam37830.github.io/book/02_linear_algebra/linearoperators.html)
 
 ### Reading
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **Required**
 
 ## Day 07 - 2/2
 
@@ -130,6 +138,10 @@ If you don't have much prior experience with matrix factorizations, it is highly
 Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 
 ### Reading
+
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 44 - 51 (Sparse direct, iterative methods) **Required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 56 - 57 (`eigs`, `eigsh`) **Required**
+* [Finding Structure with Randomness: Probabilistic Algorithms for Constructing Approximate Matrix Decompositions](http://users.cms.caltech.edu/~jtropp/papers/HMT11-Finding-Structure-SIREV.pdf) (Halko, Martinsson, Tropp. 2009) **Recommended** - you can just skim and read the algorithms on a first pass.
 
 ## Day 08 - 2/7
 
