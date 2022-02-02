@@ -136,25 +136,35 @@ If you don't have much prior experience with matrix factorizations, it is highly
 
 ### Class Material
 
+0. [Agent-based modeling](https://caam37830.github.io/book/09_computing/agent_based_models.html)
+1. [Python Iterators and Generators](https://caam37830.github.io/book/00_python/iterators.html)
+2. [Sparse Linear Algebra](https://caam37830.github.io/book/02_linear_algebra/sparse_linalg.html) (We'll start if there is time)
+
+
+### Reading
+
+* [Python Tutorial on Iterators](https://docs.python.org/3/tutorial/classes.html#iterators) **Required**
+* [Python Tutorial on Generators](https://docs.python.org/3/tutorial/classes.html#generators) **Required**
+* E. Bonabeau [Agent-based modeling: Methods and techniques for simulating human systems (2002)](https://www.pnas.org/content/99/suppl_3/7280) **Recommended**
+
+You may also want to look at the [Wikipedia entry for Agent-based model](https://en.wikipedia.org/wiki/Agent-based_model)
+
+
+
+## Day 08 - 2/7
+
+### Class Material
+
 0. [Sparse Linear Algebra](https://caam37830.github.io/book/02_linear_algebra/sparse_linalg.html)
 
 Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
+
 
 ### Reading
 
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 44 - 51 (Sparse direct, iterative methods) **Required**
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 56 - 57 (`eigs`, `eigsh`) **Required**
 * [Finding Structure with Randomness: Probabilistic Algorithms for Constructing Approximate Matrix Decompositions](http://users.cms.caltech.edu/~jtropp/papers/HMT11-Finding-Structure-SIREV.pdf) (Halko, Martinsson, Tropp. 2009) **Recommended** - you can just skim and read the algorithms on a first pass.
-
-## Day 08 - 2/7
-
-### Class Material
-
-0. [Symbolic Computing with SymPy](https://caam37830.github.io/book/04_functions/sympy.html)
-1. [Differentiation](https://caam37830.github.io/book/04_functions/differentiation.html)
-2. [Initial Value Problems](https://caam37830.github.io/book/04_functions/ode_initial.html)
-
-### Reading
 
 ## Day 09 - 2/9
 
@@ -163,18 +173,23 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 * Homework 4 released
 
 ### Class Material
-0. [Unit testing](https://caam37830.github.io/book/09_computing/unittest.html)
-1. [`setuptools`, packaging](https://github.com/caam37830/python-packages)
-2. [More on Plotting](https://caam37830.github.io/book/00_python/pyplot.html)
+
+0. [Symbolic Computing with SymPy](https://caam37830.github.io/book/04_functions/sympy.html)
+1. [Differentiation](https://caam37830.github.io/book/04_functions/differentiation.html)
+2. [Initial Value Problems](https://caam37830.github.io/book/04_functions/ode_initial.html)
+
+
 
 ### Reading
 
 ## Day 10 - 2/14
 
 ### Class Material
-0. [Basic Interpolation](https://caam37830.github.io/book/04_functions/interpolation.html)
-1. [Integration, Quadrature](https://caam37830.github.io/book/04_functions/integration.html)
-2. [Intro to RCC](https://github.com/caam37830/rcc-resources)
+
+0. [Unit testing](https://caam37830.github.io/book/09_computing/unittest.html)
+1. [`setuptools`, packaging](https://github.com/caam37830/python-packages)
+2. [More on Plotting](https://caam37830.github.io/book/00_python/pyplot.html)
+
 
 ### Reading
 
@@ -185,6 +200,9 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 * Homework 5 released
 
 ### Class Material
+0. [Basic Interpolation](https://caam37830.github.io/book/04_functions/interpolation.html)
+1. [Integration, Quadrature](https://caam37830.github.io/book/04_functions/integration.html)
+2. [Intro to RCC](https://github.com/caam37830/rcc-resources)
 
 ### Reading
 
