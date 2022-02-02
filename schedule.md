@@ -119,6 +119,9 @@ If you don't have much prior experience with matrix factorizations, it is highly
 ## Day 06 - 1/31
 
 ### Class Material
+
+[Lecture Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4ab45aeb-a729-4f2d-9789-ae2e0178271c)
+
 0. [Sparse matrix formats, `scipy.sparse`](https://caam37830.github.io/book/02_linear_algebra/sparse.html)
 1. [Linear operators](https://caam37830.github.io/book/02_linear_algebra/linearoperators.html)
 
