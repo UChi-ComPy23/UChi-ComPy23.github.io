@@ -136,6 +136,8 @@ If you don't have much prior experience with matrix factorizations, it is highly
 
 ### Class Material
 
+[Lecture Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f5a965e-dfa5-4907-b81d-ae3100f7daaa)
+
 0. [Agent-based modeling](https://caam37830.github.io/book/09_computing/agent_based_models.html)
 1. [Python Iterators and Generators](https://caam37830.github.io/book/00_python/iterators.html)
 2. [Sparse Linear Algebra](https://caam37830.github.io/book/02_linear_algebra/sparse_linalg.html) (We'll start if there is time)
