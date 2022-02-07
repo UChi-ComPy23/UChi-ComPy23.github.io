@@ -157,12 +157,18 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 
 ### Class Material
 
-0. [Sparse Linear Algebra](https://caam37830.github.io/book/02_linear_algebra/sparse_linalg.html)
+0. [Unit testing](https://caam37830.github.io/book/09_computing/unittest.html)
+1. [`setuptools`, packaging](https://github.com/caam37830/python-packages)
+2. [Sparse Linear Algebra](https://caam37830.github.io/book/02_linear_algebra/sparse_linalg.html)
 
 Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 
 
 ### Reading
+
+* [`unittest` documentation](https://docs.python.org/3.8/library/unittest.html) **Required** at least skim it to see what is in there.
+* [Introduction to GitHub actions](https://docs.github.com/en/free-pro-team@latest/actions/learn-github-actions/introduction-to-github-actions) **Recommended** again, skim to see what is in there
+* [Python packaging](https://packaging.python.org/tutorials/packaging-projects/) **Required**
 
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 44 - 51 (Sparse direct, iterative methods) **Required**
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 56 - 57 (`eigs`, `eigsh`) **Required**
@@ -188,8 +194,7 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 
 ### Class Material
 
-0. [Unit testing](https://caam37830.github.io/book/09_computing/unittest.html)
-1. [`setuptools`, packaging](https://github.com/caam37830/python-packages)
+
 2. [More on Plotting](https://caam37830.github.io/book/00_python/pyplot.html)
 
 
