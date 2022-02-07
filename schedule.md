@@ -169,7 +169,6 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 * [`unittest` documentation](https://docs.python.org/3.8/library/unittest.html) **Required** at least skim it to see what is in there.
 * [Introduction to GitHub actions](https://docs.github.com/en/free-pro-team@latest/actions/learn-github-actions/introduction-to-github-actions) **Recommended** again, skim to see what is in there
 * [Python packaging](https://packaging.python.org/tutorials/packaging-projects/) **Required**
-
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 44 - 51 (Sparse direct, iterative methods) **Required**
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 56 - 57 (`eigs`, `eigsh`) **Required**
 * [Finding Structure with Randomness: Probabilistic Algorithms for Constructing Approximate Matrix Decompositions](http://users.cms.caltech.edu/~jtropp/papers/HMT11-Finding-Structure-SIREV.pdf) (Halko, Martinsson, Tropp. 2009) **Recommended** - you can just skim and read the algorithms on a first pass.
