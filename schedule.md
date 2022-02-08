@@ -157,6 +157,8 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 
 ### Class Material
 
+[Lecture Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=edc13311-39a2-4bdd-9b1f-ae360119a99d)
+
 0. [Unit testing](https://caam37830.github.io/book/09_computing/unittest.html)
 1. [`setuptools`, packaging](https://github.com/caam37830/python-packages)
 2. [Sparse Linear Algebra](https://caam37830.github.io/book/02_linear_algebra/sparse_linalg.html)
