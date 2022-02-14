@@ -203,10 +203,18 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 ### Class Material
 
 
-2. [More on Plotting](https://caam37830.github.io/book/00_python/pyplot.html)
-
+0. [More on Plotting](https://caam37830.github.io/book/00_python/pyplot.html)
+1. [Basic Interpolation](https://caam37830.github.io/book/04_functions/interpolation.html)
+2. [Integration, Quadrature](https://caam37830.github.io/book/04_functions/integration.html)
 
 ### Reading
+
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 61 - 104 (Interpolation and Approximation) **Required**
+* [SciPy interpolation tutorial](https://docs.scipy.org/doc/scipy/reference/tutorial/interpolate.html) **Recommended**
+* [PyPlot Use FAQ](https://matplotlib.org/faq/usage_faq.html) **Required** (first half)
+* [Matplotlib tutorials](https://matplotlib.org/tutorials/index.html) **Recommended** take a look around
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 111-123 **Required**
+* [`scipy.integrate.quad`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.quad.html#scipy.integrate.quad) **Recommended**
 
 ## Day 11 - 2/16
 
@@ -215,9 +223,8 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 * Homework 5 released
 
 ### Class Material
-0. [Basic Interpolation](https://caam37830.github.io/book/04_functions/interpolation.html)
-1. [Integration, Quadrature](https://caam37830.github.io/book/04_functions/integration.html)
-2. [Intro to RCC](https://github.com/caam37830/rcc-resources)
+0. [Intro to RCC](https://github.com/caam37830/rcc-resources)
+2. [Optimization](https://caam37830.github.io/book/03_optimization/scipy_opt.html)
 
 ### Reading
 
