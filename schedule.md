@@ -183,6 +183,8 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 
 ### Class Material
 
+[Lecture Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bf86974f-9415-402b-afe8-ae380055ae01)
+
 0. [Symbolic Computing with SymPy](https://caam37830.github.io/book/04_functions/sympy.html)
 1. [Differentiation](https://caam37830.github.io/book/04_functions/differentiation.html)
 2. [Initial Value Problems](https://caam37830.github.io/book/04_functions/ode_initial.html)
@@ -190,6 +192,11 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 
 
 ### Reading
+
+* [SymPy Introduction](https://docs.sympy.org/latest/tutorial/intro.html) **Required** Look around the [documentation](https://docs.sympy.org/latest/index.html) as well.
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 105 - 110 (Differentiation) **Required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 165 - 178 (Initial Value Problems) **Required**
+* [SciPy `solve_ivp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html) **Required**
 
 ## Day 10 - 2/14
 
