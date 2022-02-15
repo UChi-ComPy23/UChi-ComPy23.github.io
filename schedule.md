@@ -202,6 +202,7 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 
 ### Class Material
 
+[Lecture Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2805b424-6e0e-44a8-b1e3-ae3c0175b49f)
 
 0. [More on Plotting](https://caam37830.github.io/book/00_python/pyplot.html)
 1. [Basic Interpolation](https://caam37830.github.io/book/04_functions/interpolation.html)
