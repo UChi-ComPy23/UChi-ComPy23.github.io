@@ -229,6 +229,10 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 
 ### Reading
 
+* [RCC User Guide](https://rcc.uchicago.edu/docs/) **Recommended** to familiarize yourself with what is available
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 125-163 (Optimization) **Required** OK to skim over code.
+* [SciPy Optimize Tutorial](https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html) **Recommended**
+
 ## Day 12 - 2/21
 
 ### Class Material
