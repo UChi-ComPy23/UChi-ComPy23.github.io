@@ -236,8 +236,15 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 ## Day 12 - 2/21
 
 ### Class Material
+0. [Optimization]([Optimization](https://caam37830.github.io/book/03_optimization/scipy_opt.html)) (continued)
+1. [Boundary Value Problems](https://caam37830.github.io/book/04_functions/bvp.html)
+2. [Pandas](https://caam37830.github.io/book/07_data/pandas.html) (if time)
 
 ### Reading
+
+* [SciPy `integrate.solve_bvp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_bvp.html) **Recommended**
+* [SymPy `ode.dsolve`](https://docs.sympy.org/latest/modules/solvers/ode.html#dsolve) **Recommended**
+
 
 ## Day 13 - 2/23
 
