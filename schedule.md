@@ -258,9 +258,22 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 * Homework 5 due
 * Homework 6 released
 
+### Project
+
+Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-project/blob/main/midterm_checkpoint.md).
+
 ### Class Material
 
+0. [Pandas](https://caam37830.github.io/book/07_data/pandas.html)
+1. [Scikit Learn](https://caam37830.github.io/book/07_data/sklearn.html)
+
 ### Reading
+
+* [Python for data analysis](https://catalog.lib.uchicago.edu/vufind/Record/11608533) by Wes McKinney Ch. 5 (Pandas) **Required** (you can download the chapter or the whole book through the library with a UChicago account)
+* [Pandas Tutorials](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) **Recommended** to skim and see if you find something relevant
+* [Scikit learn introduction](https://scikit-learn.org/stable/tutorial/basic/tutorial.html) **Required**
+* [Scikit learn user guide](https://scikit-learn.org/stable/user_guide.html) **Recommended** Just look through what the possibilities are
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 275-309 (Inference and Data Analysis) **Recommended**  - There are some examples with Scikit learn in there.
 
 ## Day 14 - 2/28
 
