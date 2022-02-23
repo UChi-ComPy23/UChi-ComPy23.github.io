@@ -224,6 +224,9 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 * Homework 5 released
 
 ### Class Material
+
+[Lecture Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36b97c65-023a-4d1a-b957-ae4000534493)
+
 0. [Intro to RCC](https://github.com/caam37830/rcc-resources)
 2. [Optimization](https://caam37830.github.io/book/03_optimization/scipy_opt.html)
 
@@ -236,6 +239,9 @@ Sparse direct methods, iterative methods, ARPACK, randomized linear algebra.
 ## Day 12 - 2/21
 
 ### Class Material
+
+[Lecture Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=15661257-a5bf-4765-98aa-ae430173402c)
+
 0. [Optimization]([Optimization](https://caam37830.github.io/book/03_optimization/scipy_opt.html)) (continued)
 1. [Boundary Value Problems](https://caam37830.github.io/book/04_functions/bvp.html)
 2. [Pandas](https://caam37830.github.io/book/07_data/pandas.html) (if time)
