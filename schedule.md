@@ -279,7 +279,17 @@ Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-p
 
 ### Class Material
 
+0. [Scikit Learn](https://caam37830.github.io/book/07_data/sklearn.html)
+1. [Distances](https://caam37830.github.io/book/08_geometry/distances.html)
+2. [Nearest Neighbor Queries](https://caam37830.github.io/book/08_geometry/nearestneighbor.html)
+
 ### Reading
+
+* [Scikit learn introduction](https://scikit-learn.org/stable/tutorial/basic/tutorial.html) **Required**
+* [Scikit learn user guide](https://scikit-learn.org/stable/user_guide.html) **Recommended** Just look through what the possibilities are
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 275-309 (Inference and Data Analysis) **Recommended**  - There are some examples with Scikit learn in there.
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 205-209 (Nearest Neighbors and Range Searching) **Required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 179-216 (Computational Geometry) **Optional**  (We're not going to cover Hulls, Triangulations, and Bezier Curves)
 
 ## Day 15 - 3/2
 
