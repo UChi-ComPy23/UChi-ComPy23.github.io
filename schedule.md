@@ -299,7 +299,17 @@ Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-p
 
 ### Class Material
 
+0. [Graphs](https://caam37830.github.io/book/05_graphs/graphs.html)
+1. [NetworkX](https://caam37830.github.io/book/05_graphs/networkx.html)
+2. [Spectral Graph Theory](https://caam37830.github.io/book/05_graphs/spectral.html)
+3. [Dimensionality Reduction, Plotly](https://caam37830.github.io/book/07_data/dimension_reduction.html)
+
 ### Reading
+
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 199-202 (Shortest Path Problems) **Recommended**
+* [NetworkX Tutorial](https://networkx.org/documentation/stable/tutorial.html) **Recommended**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 292-298 (Dimensionality Reduction) **Required**
+* [Tutorial on Spectral Clustering](https://people.csail.mit.edu/dsontag/courses/ml14/notes/Luxburg07_tutorial_spectral_clustering.pdf) by Ulrike von Luxburg **Optional**
 
 ## Day 16 - 3/7
 
