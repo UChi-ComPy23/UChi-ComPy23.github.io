@@ -264,6 +264,8 @@ Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-p
 
 ### Class Material
 
+[Lecture Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5b092a7b-d3ff-4ff8-934c-ae4b01121b2e)
+
 0. [Pandas](https://caam37830.github.io/book/07_data/pandas.html)
 1. [Scikit Learn](https://caam37830.github.io/book/07_data/sklearn.html)
 
@@ -278,6 +280,8 @@ Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-p
 ## Day 14 - 2/28
 
 ### Class Material
+
+[Lecture Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=382c4bed-80ca-4898-a364-ae4b01121b3d)
 
 0. [Scikit Learn](https://caam37830.github.io/book/07_data/sklearn.html)
 1. [Distances](https://caam37830.github.io/book/08_geometry/distances.html)
@@ -299,23 +303,29 @@ Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-p
 
 ### Class Material
 
+[Lecture Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1937fe02-9dfc-48b2-834b-ae4d015d9639)
+
 0. [Graphs](https://caam37830.github.io/book/05_graphs/graphs.html)
 1. [NetworkX](https://caam37830.github.io/book/05_graphs/networkx.html)
-2. [Spectral Graph Theory](https://caam37830.github.io/book/05_graphs/spectral.html)
-3. [Dimensionality Reduction, Plotly](https://caam37830.github.io/book/07_data/dimension_reduction.html)
+
 
 ### Reading
 
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 199-202 (Shortest Path Problems) **Recommended**
 * [NetworkX Tutorial](https://networkx.org/documentation/stable/tutorial.html) **Recommended**
-* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 292-298 (Dimensionality Reduction) **Required**
-* [Tutorial on Spectral Clustering](https://people.csail.mit.edu/dsontag/courses/ml14/notes/Luxburg07_tutorial_spectral_clustering.pdf) by Ulrike von Luxburg **Optional**
+
 
 ## Day 16 - 3/7
 
 ### Class Material
 
+1. [Spectral Graph Theory](https://caam37830.github.io/book/05_graphs/spectral.html)
+2. [Dimensionality Reduction, Plotly](https://caam37830.github.io/book/07_data/dimension_reduction.html)
+
 ### Reading
+
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 292-298 (Dimensionality Reduction) **Required**
+* [Tutorial on Spectral Clustering](https://people.csail.mit.edu/dsontag/courses/ml14/notes/Luxburg07_tutorial_spectral_clustering.pdf) by Ulrike von Luxburg **Optional**
 
 ## Day 17 - 3/9
 
@@ -324,11 +334,16 @@ Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-p
 
 ### Class Material
 
+0. [Linear Algebra in PyTorch](https://caam37830.github.io/book/02_linear_algebra/pytorch.html)
+1. [Basic Neural Networks in PyTorch](https://caam37830.github.io/book/07_data/pytorch.html)
+
 ### Reading
+
+* [PyTorch Tutorials](https://pytorch.org/tutorials/) check them out to see if there is something that matches your interests **Optional**
 
 
 ## Finals Period
 
 College reading period is 3/12-3/14
 
-Final Project due TBD
+Final Project report due 3/18.
