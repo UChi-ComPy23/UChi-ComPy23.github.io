@@ -298,8 +298,8 @@ Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-p
 ## Day 15 - 3/2
 
 ### Homework
-* Homework 6 due
-* Homework 7 released
+* Homework 6 due 3/4
+* Homework 7 released 3/4
 
 ### Class Material
 
@@ -319,6 +319,8 @@ Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-p
 
 ### Class Material
 
+[Lecture Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b1297eb9-3bf3-4b9c-929d-ae510171cd7f)
+
 1. [Spectral Graph Theory](https://caam37830.github.io/book/05_graphs/spectral.html)
 2. [Dimensionality Reduction, Plotly](https://caam37830.github.io/book/07_data/dimension_reduction.html)
 
@@ -330,7 +332,7 @@ Midterm Checkpoint Due.  See [guidelines](https://github.com/caam37830/default-p
 ## Day 17 - 3/9
 
 ### Homework
-* Homework 7 due
+* Homework 7 due 3/11
 
 ### Class Material
 
