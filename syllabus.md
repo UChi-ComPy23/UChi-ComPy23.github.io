@@ -5,8 +5,7 @@ Course number: [CAAM 37830=STAT 37830](https://stat.uchicago.edu/academics/cours
 ## People
 Instructor:  [Brad Nelson](https://bnels.github.io/). William H. Kruskal Instructor in the Department of Statistics. Office Hours TBD.
 
-TA: Sue Parkinson. CAAM Ph.D. Office Hours Tuesdays at 10-11AM via Zoom or in Jones 304 when class is in person.
-
+TA: TBA
 
 ## Course Format
 
@@ -31,8 +30,6 @@ Because this is an introductory graduate-level course, the Prerequisites are fai
 You will need
 1. A computer, with the ability to install software and run programs
 2. An internet connection
-
-Videos for class material will be pre-recorded, so there won't be a need to tune-in in real time.  Office hours/problem solving sessions will be held over Zoom.
 
 We will assume you are running some [UNIX-based operating system](https://en.wikipedia.org/wiki/Unix) on your computer.  For most people, this will mean either Mac or Linux.  We will not support troubleshooting Windows issues - if you have windows on your computer, consider using the [Windows Linux Subsystem](https://docs.microsoft.com/en-us/windows/wsl/install-win10), or dual-booting or single-booting some version of Linux.
 
@@ -88,6 +85,8 @@ If you find helpful information online (e.g. on stackoverflow), put a note about
 You are welcome to make your solutions publicly available, but **please wait until after the assignment due date.**
 
 The group project will be judged collectively - you do not need to say who did what.  This will all be recorded by git logs anyways.
+
+You are welcome to use NLP-based tools like GitHub Co-pilot, but should be clear about what code was generated (same as stackoverflow).  Please explicitly note what code was automatically generated using start/end comments.
 
 ## Textbook & Readings
 
