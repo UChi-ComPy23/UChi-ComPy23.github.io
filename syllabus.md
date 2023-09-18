@@ -3,21 +3,17 @@
 Course number: [CAAM 37830=STAT 37830](https://stat.uchicago.edu/academics/course-info/2021-2022-courses/winter-2022-stat-37830/)
 
 ## People
-Instructor:  [Brad Nelson](https://bnels.github.io/). William H. Kruskal Instructor in the Department of Statistics. Office Hours TBD.
+Instructor:  [Tristan Goodwill](https://tristangdwl.github.io/). William H. Kruskal Instructor in the Department of Statistics. Office Hours TBD.
 
 TA: TBA
 
 ## Course Format
 
-This course is scheduled to meet MW 1:30 PM-2:50 PM in Kent 101. **The first 2 weeks of the course will be online**
+This course is scheduled to meet TR 12:30 PM-1:50 PM in TBA. 
 
-Homework will be posted Wednesday, and due the following Wednesday.  We plan to have a homework assignment every week.
+Homework will be posted Tuesday, and due the following Tuesday.  We plan to have a homework assignment every week apart from Thanksgiving break.
 
-There will be a course-long group project.  There will be a midterm checkpoint, and a final report.  Groups will be assigned a few weeks into the quarter.
-
-Problem solving sessions and office hours will not be recorded, so you can feel free to ask any question you want.
-
-We will open discussion topics on Canvas where you can ask (or answer) questions as well.  This may be the best way to get help at odd hours or find others to work with.
+There will be a course-long group project.  There will be a project proposal, a midterm checkpoint, and a final report.  Groups will be assigned a few weeks into the quarter.
 
 ### Prerequisites
 
@@ -38,7 +34,8 @@ In addition to a University of Chicago account, you'll need to create a [GitHub]
 ## Evaluation
 
 * Weekly homework (50% of final grade, each weighted equally)
-* Group midterm checkpoint (20% of final grade)
+* Group project proposal (5% of final grade)
+* Group midterm checkpoint (15% of final grade)
 * Group final project/report (30% of final grade)
 
 10% of group work (5% of total grade) will be based on teammate evaluations.  These evaluations will be kept confidential.  If you believe your score to be unfair, you can reach out to the instruction staff.  We will look at git logs/history if we need to resolve any disputes.
