@@ -5,8 +5,7 @@ Course number: [CAAM 37830=STAT 37830](https://stat.uchicago.edu/academics/cours
 ## People
 Instructor:  [Brad Nelson](https://bnels.github.io/). William H. Kruskal Instructor in the Department of Statistics. Office Hours TBD.
 
-TA: Sue Parkinson. CAAM Ph.D. Office Hours Tues 10am.
-
+TA: TBA
 
 ## Course Format
 
