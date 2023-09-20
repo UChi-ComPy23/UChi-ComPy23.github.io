@@ -106,9 +106,9 @@ We'll survey a variety of topics used in scientific computing in (roughly) the f
 4. Functions of one variable (scipy)
 5. Symbolic computing (sympy)
 6. Numerical optimization (scipy)
-7. Graphs (networkx)
-8. Data processing (pandas)
-9. Machine learning (scikit learn)
+7. Data processing (pandas)
+8. Machine learning (scikit learn)
+9. Fast Multipole Method
 
 In parallel, we will cover several practical topics, including
 
