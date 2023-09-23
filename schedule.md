@@ -29,6 +29,8 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 ## Project
 
+Groups finalized 10/17.
+
 Project proposal due 10/31.
 
 Midterm checkpoint due 11/14.
