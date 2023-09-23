@@ -13,7 +13,7 @@ This course is scheduled to meet TR 12:30 PM-1:50 PM in Rosenwald 015.
 
 Homework will be posted Thursday, and due the following Thursday.  We plan to have a homework assignment every week, apart from Thanksgiving break.
 
-There will be a course-long group project.  This will include a project proposal, a midterm checkpoint, and a final report.  Groups will be assigned a few weeks into the quarter.
+There will be a course-long group project.  This will include a project proposal, a midterm checkpoint, and a final report.  Groups will be organized a few weeks into the quarter.
 
 ### Prerequisites
 
