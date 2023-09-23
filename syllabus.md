@@ -5,15 +5,15 @@ Course number: [CAAM 37830=STAT 37830](https://stat.uchicago.edu/academics/cours
 ## People
 Instructor:  [Tristan Goodwill](https://tristangdwl.github.io/). William H. Kruskal Instructor in the Department of Statistics. Office Hours TBD.
 
-TA: TBA
+TAs: Runxin Ni and Su Hyeong. Office Hours TBD.
 
 ## Course Format
 
-This course is scheduled to meet TR 12:30 PM-1:50 PM in TBA. 
+This course is scheduled to meet TR 12:30 PM-1:50 PM in Rosenwald 015. 
 
-Homework will be posted Tuesday, and due the following Tuesday.  We plan to have a homework assignment every week apart from Thanksgiving break.
+Homework will be posted Thursday, and due the following Thursday.  We plan to have a homework assignment every week, apart from Thanksgiving break.
 
-There will be a course-long group project.  There will be a project proposal, a midterm checkpoint, and a final report.  Groups will be assigned a few weeks into the quarter.
+There will be a course-long group project.  This will include a project proposal, a midterm checkpoint, and a final report.  Groups will be assigned a few weeks into the quarter.
 
 ### Prerequisites
 
@@ -27,7 +27,7 @@ You will need
 1. A computer, with the ability to install software and run programs
 2. An internet connection
 
-We will assume you are running some [UNIX-based operating system](https://en.wikipedia.org/wiki/Unix) on your computer.  For most people, this will mean either Mac or Linux.  We will not support troubleshooting Windows issues - if you have windows on your computer, consider using the [Windows Linux Subsystem](https://docs.microsoft.com/en-us/windows/wsl/install-win10), or dual-booting or single-booting some version of Linux.
+We will assume you are running some [UNIX-based operating system](https://en.wikipedia.org/wiki/Unix) on your computer.  For most people, this will mean either Mac or Linux.  We will not support troubleshooting Windows issues - if you have windows on your computer, I recommend using the highly effective [Windows Linux Subsystem](https://docs.microsoft.com/en-us/windows/wsl/).
 
 In addition to a University of Chicago account, you'll need to create a [GitHub](https://github.com/) account as assignments will be distributed through GitHub classroom.  Any work you do will be kept in private repositories.  If you want, you can create a "burner" account that isn't associated with your primary account (if you already have one).
 
@@ -40,36 +40,22 @@ In addition to a University of Chicago account, you'll need to create a [GitHub]
 
 10% of group work (5% of total grade) will be based on teammate evaluations.  These evaluations will be kept confidential.  If you believe your score to be unfair, you can reach out to the instruction staff.  We will look at git logs/history if we need to resolve any disputes.
 
-You can drop your lowest homework score (or just not do a homework) if you submit a successful pull request to improve the content of the course reader.  You can drop up to two homework grades in this way.  Please coordinate through [GitHub issues](https://github.com/caam37830/book/issues).
-
-There are several things you will be evaluated on
+There are several things your work will be evaluated on
 1. Correctness - is your answer correct?  Does your code produce the correct output? (may use an autograder to check this)
 2. Performance/efficiency - there are often many ways to implement an algorithm.  Some will be faster than others.  We'll let you know if we are looking for certain optimizations.
 3. Style - your code should be reasonably easy to understand.  This is typically achieved through the use of docstrings, comments, and appropriately named variables.  
 4. Team work - we'll ask your teammates to evaluate whether you performed a fair share of the work.
 
-### Grading Policy
-
-Letter grades will be assigned using the following hard cutoffs:
-
-A: 93% or higher<br />
-A-: 90% or higher<br />
-B+: 87% or higher<br />
-B: 83% or higher<br />
-B-: 80% or higher<br />
-C+: 77% or higher<br />
-C: 60% or higher<br />
-D: 50% or higher<br />
-F: less than 50%<br />
-
-We reserve the right to curve the grades, but only in a fashion that would improve the grade earned by the stated rubric.
-
 ### Late Work Policy
-Late work generally won't be accepted - please see the above note about how to drop your lowest homework scores.  Groups will be expected to come to a consensus on how to get work done on schedule.
+Two 48 hour extensions assignments will automatically granted per student, no questions asked and no notification necessary. Beyond those that, exceptions will only be granted in abnormal circumstances.
 
-This is the first time this course is being offered.  If an assignment is taking an unreasonable amount of time to complete, please let us know.  If this is done a few days before the due date, the assignment may be adjusted.
+Project related extensions will be only be granted in abnormal circumstances.
 
-In abnormal circumstances, please reach out to the instruction staff for accomodations.  Due to Covid-19, it is anticipated that "abnormal" circumstances may be more common.
+If an assignment is taking an unreasonable amount of time to complete, please let us know.  If this is done a few days before the due date, the assignment may be adjusted.
+
+### Regrade Request
+
+You will have one week from the day assignment grades are released to request a regrade. 
 
 ### Collaboration Policy
 
@@ -82,8 +68,6 @@ If you find helpful information online (e.g. on stackoverflow), put a note about
 You are welcome to make your solutions publicly available, but **please wait until after the assignment due date.**
 
 The group project will be judged collectively - you do not need to say who did what.  This will all be recorded by git logs anyways.
-
-You are welcome to use NLP-based tools like GitHub Co-pilot, but should be clear about what code was generated (same as stackoverflow).  Please explicitly note what code was automatically generated using start/end comments.
 
 ## Textbook & Readings
 
