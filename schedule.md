@@ -27,8 +27,16 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 * [Array Programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2) by Harris, et al. **Recommended**
 
 
+## Project
+
+Project proposal due 10/31.
+
+Midterm checkpoint due 11/14.
+
+Final Project report due 12/7.
+
 ## Finals Period
 
 College reading period is 12/2-12/4
 
-Final Project report due 12/7.
+
