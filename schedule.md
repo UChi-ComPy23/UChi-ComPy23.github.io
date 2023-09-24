@@ -5,18 +5,18 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/schedule_f2021.md) [Winter 2022](archive/schedule_w2022.md)
 
 ## System Setup
-0. [Basic Bash](https://caam37830.github.io/book/09_computing/basic_bash.html) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e4dcb80-5d0b-41a6-8386-ac3e011e86ca)]
-1. [Install Anaconda Python](https://github.com/caam37830/materials/blob/master/lectures/00/conda.md) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af0fb6d1-ff96-4ac3-8daa-ac38001795f8)]
-2. [Install Jupyter notebooks](https://github.com/caam37830/materials/blob/master/lectures/00/jupyter.ipynb) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d30f69a5-9599-4f5f-b7ca-ac3800ee0966)]
-3. [Using Python](https://caam37830.github.io/book/00_python/using_python.html)
+0. [Basic Bash](https://uchi-compy23.github.io/notes/09_computing/basic_bash.html) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e4dcb80-5d0b-41a6-8386-ac3e011e86ca)]
+1. [Install Anaconda Python](https://github.com/uchi-compy23/materials/blob/master/lectures/00/conda.md) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af0fb6d1-ff96-4ac3-8daa-ac38001795f8)]
+2. [Install Jupyter notebooks](https://github.com/uchi-compy23/materials/blob/master/lectures/00/jupyter.ipynb) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d30f69a5-9599-4f5f-b7ca-ac3800ee0966)]
+3. [Using Python](https://uchi-compy23.github.io/notes/00_python/using_python.html)
 
 ## Day 00 - 9/26
 ### Class Material
 
-0. [Python Basics](https://caam37830.github.io/book/00_python/basics.html)
-1. [Bits, Bytes, and Numbers](https://caam37830.github.io/book/00_python/bitsbytes.html)
-2. [Basic Containers and Packages](https://caam37830.github.io/book/00_python/basic_packages.html)
-3. [Python Scripts](https://caam37830.github.io/book/00_python/using_python.html#python-scripts)  [[Example Script](https://github.com/caam37830/materials/blob/master/lectures/01/script.py)] [[Download Example](https://raw.githubusercontent.com/caam37830/materials/master/lectures/01/script.py)]
+0. [Python Basics](https://uchi-compy23.github.io/notes/00_python/basics.html)
+1. [Bits, Bytes, and Numbers](https://uchi-compy23.github.io/notes/00_python/bitsbytes.html)
+2. [Basic Containers and Packages](https://uchi-compy23.github.io/notes/00_python/basic_packages.html)
+3. [Python Scripts](https://uchi-compy23.github.io/book/00_python/using_python.html#python-scripts)  [[Example Script](https://github.com/uchi-compy23/materials/blob/master/lectures/01/script.py)] [[Download Example](https://raw.githubusercontent.com/uchi-compy23/materials/master/lectures/01/script.py)]
 
 ### Reading
 
