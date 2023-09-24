@@ -71,7 +71,7 @@ The group project will be judged collectively - you do not need to say who did w
 
 ## Textbook & Readings
 
-There is no required textbook for this course. Readings will be posted in the [schedule](schedule.md).  We are also building an online [course reader](https://caam37830.github.io/book/).
+There is no required textbook for this course. Readings will be posted in the [schedule](schedule.md).  We are also building an online [course reader](https://uchi-compy23.github.io/notes/).
 
 A good reference which we may follow portions of is:
 [Mastering SciPy by Francisco J. Blanco-Silva.](https://catalog.lib.uchicago.edu/vufind/Record/11908913). This is available as a free electronic resource through the University of Chicago Library.
