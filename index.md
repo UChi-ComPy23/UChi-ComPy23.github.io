@@ -13,5 +13,5 @@ Multivariable calculus, Linear algebra, prior programming experience (not necess
 
 * [Syllabus](syllabus.md) - additional information and logistics
 * [Schedule](schedule.md) - detailed schedule with links, readings, and assignments
-* [Reader](https://caam37830.github.io/book) - online course reader, covering material we'll see in this course.  This will evolve throughout the quarter.
+* [Reader](https://uchi-compy23.github.io/notes) - online course reader, covering material we'll see in this course.  This will evolve throughout the quarter.
 * [Canvas](https://canvas.uchicago.edu/courses/52123) - for discussion, general course administration
