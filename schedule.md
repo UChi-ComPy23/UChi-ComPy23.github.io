@@ -1,3 +1,5 @@
+Be sure to refresh this page to see the most recent version.
+
 # Schedule - Fall 2023
 
 This course follows a Tuesday/Thursday schedule.  There is a section for each day, with materials for that day.  This schedule is subject to change before a class is held.
