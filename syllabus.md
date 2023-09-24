@@ -69,6 +69,10 @@ You are welcome to make your solutions publicly available, but **please wait unt
 
 The group project will be judged collectively - you do not need to say who did what.  This will all be recorded by git logs anyways.
 
+### The use of NLP-based Tools
+
+There are many natural language processing Tools available, such as GitHub co-pilot and ChatGPT, which can generate code efficiently.
+
 ## Textbook & Readings
 
 There is no required textbook for this course. Readings will be posted in the [schedule](schedule.md).  We are also building an online [course reader](https://uchi-compy23.github.io/notes/).
