@@ -47,7 +47,7 @@ There are several things your work will be evaluated on
 4. Team work - we'll ask your teammates to evaluate whether you performed a fair share of the work.
 
 ### Late Work Policy
-Two 48 hour extensions assignments will automatically granted per student, no questions asked and no notification necessary. Beyond those that, exceptions will only be granted in abnormal circumstances.
+Two 48 hour extensions assignments will automatically granted per student, no questions asked. However, you do need to notify both of the TAs before the deadline. Beyond those that, exceptions will only be granted in abnormal circumstances.
 
 Project related extensions will be only be granted in abnormal circumstances.
 
