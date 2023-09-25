@@ -29,6 +29,17 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 * [Array Programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2) by Harris, et al. **Recommended**
 
 
+## Day 01 - 9/28
+### Homework
+
+* Homework 0 released.
+
+## Day 03 - 10/5
+### Homework
+
+* Homework 0 due.
+* Homework 1 released.
+
 ## Project
 
 Groups finalized 10/17.
