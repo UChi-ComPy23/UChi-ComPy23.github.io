@@ -1,0 +1,15 @@
+filetype plugin indent on
+set tabstop=2
+set shiftwidth=2
+set expandtab
+
+set mouse=a
+set whichwrap+=<,>,h,l,[,]
+set foldmethod=indent
+set foldnestmax=2
+
+set background=dark
+
+highlight Folded ctermbg=black ctermfg=DarkYellow
+highlight Comment ctermbg=black ctermfg=LightBlue
+
