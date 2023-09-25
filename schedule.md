@@ -8,8 +8,8 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 ## System Setup
 0. [Basic Bash](https://uchi-compy23.github.io/notes/09_computing/basic_bash.html) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e4dcb80-5d0b-41a6-8386-ac3e011e86ca)]
-1. [Install Anaconda Python](https://github.com/uchi-compy23/materials/blob/master/lectures/00/conda.md) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af0fb6d1-ff96-4ac3-8daa-ac38001795f8)]
-2. [Install Jupyter notebooks](https://github.com/uchi-compy23/materials/blob/master/lectures/00/jupyter.ipynb) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d30f69a5-9599-4f5f-b7ca-ac3800ee0966)]
+1. [Install Anaconda Python](https://uchi-compy23.github.io/notes/00_python/conda.html) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af0fb6d1-ff96-4ac3-8daa-ac38001795f8)]
+2. [Install Jupyter notebooks](https://uchi-compy23.github.io/notes/00_python/jupyter.html) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d30f69a5-9599-4f5f-b7ca-ac3800ee0966)]
 3. [Using Python](https://uchi-compy23.github.io/notes/00_python/using_python.html)
 
 ## Day 00 - 9/26
