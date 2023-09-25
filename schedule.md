@@ -23,11 +23,11 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 ### Reading
 
 * [Discrete or Continuous?](https://archive.siam.org/pdf/news/1975.pdf) by N. Trefethen. **Required**
-* [Top-10 Algorithms of the 20th Century](https://archive.siam.org/pdf/news/637.pdf) by B. Cipra. **Required**
 * [PEP 0020 - The Zen of Python](https://www.python.org/dev/peps/pep-0020/) **Required**
 * [PEP 0008 - Style Guide](https://www.python.org/dev/peps/pep-0008) (just skim and read anything interesting) **Required**
 * [Array Programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2) by Harris, et al. **Recommended**
-
+* [Top-10 Algorithms of the 20th Century](https://archive.siam.org/pdf/news/637.pdf) by B. Cipra. **Recommended** for those interested in the culture of scientific computing.
+  
 
 ## Day 01 - 9/28
 ### Homework
