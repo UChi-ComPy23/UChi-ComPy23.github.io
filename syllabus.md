@@ -106,7 +106,7 @@ In parallel, we will cover several practical topics, including
 4. Cluster computing
 5. Parallel & GPU computing
 
-A detailed [schedule](schedule.md) will be maintained.
+Changes may be made based on interest and a detailed [schedule](schedule.md) will be maintained.
 
 ## Students with Disabilities
 
