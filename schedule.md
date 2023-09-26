@@ -15,10 +15,10 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 ## Day 00 - 9/26
 ### Class Material
 
-0. [Python Basics](https://uchi-compy23.github.io/notes/00_python/basics.html)
-1. [Bits, Bytes, and Numbers](https://uchi-compy23.github.io/notes/00_python/bitsbytes.html)
-2. [Basic Containers and Packages](https://uchi-compy23.github.io/notes/00_python/basic_packages.html)
-3. [Python Scripts](https://uchi-compy23.github.io/notes/00_python/using_python.html#python-scripts)  [[Example Script](https://github.com/uchi-compy23/materials/blob/master/lectures/01/script.py)] [[Download Example](https://raw.githubusercontent.com/uchi-compy23/materials/master/lectures/01/script.py)]
+0. [Python Scripts](https://uchi-compy23.github.io/notes/00_python/using_python.html#python-scripts)  [[Example Script](https://github.com/uchi-compy23/materials/blob/master/lectures/01/script.py)] [[Download Example](https://raw.githubusercontent.com/uchi-compy23/materials/master/lectures/01/script.py)]
+1. [Python Basics](https://uchi-compy23.github.io/notes/00_python/basics.html)
+2. [Bits, Bytes, and Numbers](https://uchi-compy23.github.io/notes/00_python/bitsbytes.html)
+3. [Basic Containers and Packages](https://uchi-compy23.github.io/notes/00_python/basic_packages.html)
 
 ### Reading
 
