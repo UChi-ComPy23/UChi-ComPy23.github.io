@@ -39,7 +39,7 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 0. [Functions in Python](https://uchi-compy23.github.io/notes/00_python/functions.html)
 1. [Asymptotic notation](https://uchi-compy23.github.io/notes/01_analysis/asymptotic_notation.html)
 2. [Decorators](https://uchi-compy23.github.io/notes/00_python/decorators.html)
-3. [Recursion](https:/uchi-compy23.github.io/notes/01_analysis/recursion.html)
+3. [Recursion](https://uchi-compy23.github.io/notes/01_analysis/recursion.html)
 
 ### Reading
 
