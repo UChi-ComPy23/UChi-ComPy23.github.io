@@ -5,11 +5,11 @@
 Course number: [CAAM 37830=STAT 37830](https://stat.uchicago.edu/academics/course-info/2023-2024-courses/autumn-2023-stat-37830/)
 
 ## People
-Instructor:  [Tristan Goodwill](https://tristangdwl.github.io/). William H. Kruskal Instructor in the Department of Statistics. Office Hours TBD in Jones 316.
+Instructor:  [Tristan Goodwill](https://tristangdwl.github.io/). William H. Kruskal Instructor in the Department of Statistics. Office Hours Tuesdays 3:30 in TBD.
 
-TA: Runxin Ni. Office Hours TBD. runxin.ni @ uchicago.edu
+TA: Runxin Ni. Office Hours Monday 2:30-3:30 in Jones 304. runxin.ni @ uchicago.edu
 
-TA: Su Hyeong. Office Hours TBD. sulee @ uchicago.edu
+TA: Su Hyeong. Office Hours Wednesday at TBD. sulee @ uchicago.edu
 
 ## Course Format
 
