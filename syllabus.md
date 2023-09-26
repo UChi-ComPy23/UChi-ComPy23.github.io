@@ -1,5 +1,3 @@
-### Due to flooding in Rosenwald 015, STAT 37830 has been moved to Kersten 103 this afternoon 12:30-1:50 PM.
-
 # Syllabus
 
 Course number: [CAAM 37830=STAT 37830](https://stat.uchicago.edu/academics/course-info/2023-2024-courses/autumn-2023-stat-37830/)
