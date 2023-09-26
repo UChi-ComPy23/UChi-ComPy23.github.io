@@ -13,7 +13,7 @@ TA: Su Hyeong. Office Hours TBD. sulee @ uchicago.edu
 
 This course is scheduled to meet TR 12:30 PM-1:50 PM in Rosenwald 015. 
 
-Homework will be posted Thursday, and due the following Thursday.  We plan to have a homework assignment every week, apart from Thanksgiving break.
+Homework will be posted Thursday, and due the following Thursday at 10 PM.  We plan to have a homework assignment every week, apart from Thanksgiving break.
 
 There will be a course-long group project.  This will include a project proposal, a midterm checkpoint, and a final report.  Groups will be organized a few weeks into the quarter.
 
@@ -49,9 +49,11 @@ There are several things your work will be evaluated on
 4. Team work - we'll ask your teammates to evaluate whether you performed a fair share of the work.
 
 ### Late Work Policy
-Two 48 hour extensions assignments will automatically granted per student, no questions asked. However, you do need to notify both of the TAs before the deadline. Beyond those that, exceptions will only be granted in abnormal circumstances.
+Deadlines have a 2 hour grace period to compensate for technical issues. Work submitted after that time is considered late.
 
-Project related extensions will be only be granted in abnormal circumstances.
+**Individual work:** Two 48 hour extensions will automatically granted per student, no questions asked. However, you do need to notify both of the TAs before the deadline. Beyond those, exceptions will only be granted in abnormal circumstances.
+
+**Group work:** Project related extensions will be only be granted in abnormal circumstances.
 
 If an assignment is taking an unreasonable amount of time to complete, please let us know.  If this is done a few days before the due date, the assignment may be adjusted.
 
