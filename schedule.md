@@ -34,6 +34,13 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 * Homework 0 released.
 
+### Class Material
+
+0. [Functions in Python](https://uchi-compy23.github.io/notes/00_python/functions.html)
+1. [Asymptotic notation](https://uchi-compy23.github.io/notes/01_analysis/asymptotic_notation.html)
+2. [Decorators](https://uchi-compy23.github.io/notes/00_python/decorators.html)
+3. [Recursion](https:/uchi-compy23.github.io/notes/01_analysis/recursion.html)
+    
 ## Day 03 - 10/5
 ### Homework
 
