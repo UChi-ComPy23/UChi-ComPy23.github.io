@@ -49,7 +49,7 @@ There are several things your work will be evaluated on
 4. Team work - we'll ask your teammates to evaluate whether you performed a fair share of the work.
 
 ### Late Work Policy
-Deadlines have a 2 hour grace period to compensate for technical issues. Work submitted after that time is considered late.
+Deadlines have a 2 hour grace period to compensate for technical issues. Work submitted after that grace period is considered late.
 
 **Individual work:** Two 48 hour extensions will automatically granted per student, no questions asked. However, you do need to notify both of the TAs before the deadline. Beyond those, exceptions will only be granted in abnormal circumstances.
 
