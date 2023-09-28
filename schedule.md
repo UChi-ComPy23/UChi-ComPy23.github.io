@@ -32,9 +32,9 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 ## Day 01 - 9/28
 ### Homework
-
 * Homework 0 released.
-
+* See the [git tutorial](https://github.com/caam37830/git-tutorial) if you are not familiar with git version control.
+  
 ### Class Material
 
 0. [Functions in Python](https://uchi-compy23.github.io/notes/00_python/functions.html)
@@ -47,6 +47,19 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 * [Functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions) **Required**
 * [More on defining functions](https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions) **Required**
 * [Function definitions](https://docs.python.org/3/reference/compound_stmts.html#function-definitions) **Recommended**
+
+## Day 03 - 10/3
+### Class Material
+
+0. [Python Objects, OOP](https://uchi-compy23.github.io/notes/00_python/classes.html)
+1. [Modules and Packages](https://uchi-compy23.github.io/notes/00_python/modules.html) [[GitHub repository](https://github.com/uchi-compy23/python-packages)]
+
+### Reading
+
+* [Classes](https://docs.python.org/3/tutorial/classes.html) **Required** at least through 9.5 (inheritance)
+* [Class definitions](https://docs.python.org/3/reference/compound_stmts.html#class-definitions) **Recommended**
+* [Modules](https://docs.python.org/3/tutorial/modules.html) **Required**
+
   
 ## Day 03 - 10/5
 ### Homework
