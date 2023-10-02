@@ -39,9 +39,8 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 0. [Functions in Python](https://uchi-compy23.github.io/notes/00_python/functions.html)
 1. [Asymptotic notation](https://uchi-compy23.github.io/notes/01_analysis/asymptotic_notation.html)
-2. [Decorators](https://uchi-compy23.github.io/notes/00_python/decorators.html)
-3. [Recursion](https://uchi-compy23.github.io/notes/01_analysis/recursion.html)
-4. [Bits, Bytes, and Numbers](https://uchi-compy23.github.io/notes/00_python/bitsbytes.html)
+2. [Recursion](https://uchi-compy23.github.io/notes/01_analysis/recursion.html)
+3. [Bits, Bytes, and Numbers](https://uchi-compy23.github.io/notes/00_python/bitsbytes.html)
 
 ### Reading
 
@@ -49,24 +48,69 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 * [More on defining functions](https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions) **Required**
 * [Function definitions](https://docs.python.org/3/reference/compound_stmts.html#function-definitions) **Recommended**
 
-## Day 03 - 10/3
+## Day 02 - 10/3
 ### Class Material
+0. [Decorators](https://uchi-compy23.github.io/notes/00_python/decorators.html)
+1. [Vectorization, numpy ufuncs, numba](https://uchi-py23.github.io/notes/09_computing/performance/numpy_ufuncs.html)
+2. [Memory layout](https://uchi-py23.github.io/notes/02_linear_algebra/memory.html)
 
-0. [Python Objects, OOP](https://uchi-compy23.github.io/notes/00_python/classes.html)
-1. [Modules and Packages](https://uchi-compy23.github.io/notes/00_python/modules.html) [[GitHub repository](https://github.com/uchi-compy23/python-packages)]
+### Reading
+* [NumPy Ufuncs](https://numpy.org/doc/stable/reference/ufuncs.html) **Recommended**
+
+
+## Day 03 - 10/5
+
+### Homework
+* Homework 1 due
+* Homework 2 released
+
+### Class Material
+0. [Dense Linear Algebra](https://uchi-py23.github.io/notes/02_linear_algebra/numpy_scipy_linalg.html)
+1. [SciPy BLAS and LAPACK Interfaces](https://uchi-py23.github.io/notes/02_linear_algebra/blas_lapack.html)
+2. [Python Objects, OOP](https://uchi-compy23.github.io/notes/00_python/classes.html)
+If you don't have much prior experience with matrix factorizations, it is highly recommended to go through the exercises in the notebook.
 
 ### Reading
 
-* [Classes](https://docs.python.org/3/tutorial/classes.html) **Required** at least through 9.5 (inheritance)
-* [Class definitions](https://docs.python.org/3/reference/compound_stmts.html#class-definitions) **Recommended**
-* [Modules](https://docs.python.org/3/tutorial/modules.html) **Required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 13 - 18 (Creation of matrices) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 28 - 38 (Basic Matrix Manipulation) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 38 - 41 (Matrix Factorizations) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 54 - 55 (Eigenvalue Decompositions) **required**
+
+* [LAPACK on netlib](https://www.netlib.org/lapack/) **Optional**
+* [BLAS on netlib](https://www.netlib.org/blas/) **Optional**
 
   
-## Day 03 - 10/5
-### Homework
+* [Classes](https://docs.python.org/3/tutorial/classes.html) **Required** at least through 9.5 (inheritance)
+* [Class definitions](https://docs.python.org/3/reference/compound_stmts.html#class-definitions) **Recommended**
 
-* Homework 0 due.
-* Homework 1 released.
+
+## Day 04 - 10/10
+### Homework
+* Homework 3 released
+  
+### Class Material
+
+0. [Modules and Packages](https://uchi-compy23.github.io/notes/00_python/modules.html) [[GitHub repository](https://github.com/uchi-compy23/python-packages)]
+1. [Convergence of Algorithms](https://uchi-py23.github.io/notes/01_analysis/convergence.html)
+2. [Root Finding](https://uchi-py23.github.io/notes/04_functions/roots.html)
+     
+### Reading
+
+* [Modules](https://docs.python.org/3/tutorial/modules.html) **Required**
+* [Newton's Method](https://mathworld.wolfram.com/NewtonsMethod.html) on Wolfram Mathworld **Recommended**
+
+## Day 05 - 10/12
+### Homework
+* Homework 2 due
+* Project groups finalized
+
+## Day 06 - 10/17
+
+## Day 07 - 10/19
+### Homework
+* Homework 3 due
+* Homework 4 due
 
 ## Project
 
