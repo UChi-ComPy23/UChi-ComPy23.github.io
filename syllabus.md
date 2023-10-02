@@ -19,7 +19,7 @@ There will be a course-long group project.  This will include a project proposal
 
 ### Prerequisites
 
-Multivariable calculus, Linear algebra, prior programming experience (not necessarily in Python).
+Multivariable calculus, linear algebra, prior programming experience (not necessarily in Python).
 
 Because this is an introductory graduate-level course, the Prerequisites are fairly informal and minimal.  Since we're doing scientific computing, we'll assume some basic familiarity with high-school or introductory undergraduate physical science, and maybe some social science. We'll also assume familiarity with multivariable calculus and linear algebra.  We'll cover some ODEs and PDEs, but not at a level that requires significant prior experience.  Prior programming experience is assumed, but this can be informal.
 
