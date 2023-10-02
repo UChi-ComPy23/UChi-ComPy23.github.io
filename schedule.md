@@ -93,7 +93,7 @@ If you don't have much prior experience with matrix factorizations, it is highly
 
 0. [Modules and Packages](https://uchi-compy23.github.io/notes/00_python/modules.html) [[GitHub repository](https://github.com/uchi-compy23/python-packages)]
 1. [Convergence of Algorithms](https://uchi-compy23.github.io/notes/01_analysis/convergence.html)
-2. [Root Finding](https://uchi-py23.github.io/notes/04_functions/roots.html)
+2. [Root Finding](https://uchi-compy23.github.io/notes/04_functions/roots.html)
      
 ### Reading
 
