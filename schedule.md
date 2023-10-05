@@ -103,14 +103,16 @@ If you don't have much prior experience with matrix factorizations, it is highly
 ## Day 05 - 10/12
 ### Homework
 * Homework 2 due
-* Project groups finalized
+
 
 ## Day 06 - 10/17
-
+### Homework
+* Project groups finalized
+* 
 ## Day 07 - 10/19
 ### Homework
 * Homework 3 due
-* Homework 4 due
+* Homework 4 Released
 
 ## Project
 
