@@ -119,7 +119,7 @@ If you don't have much prior experience with matrix factorizations, it is highly
 ## Day 07 - 10/19
 ### Homework
 * Homework 2 due
-* Homework 3 Released
+* Homework 3 released
 
 ## Project
 
