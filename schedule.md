@@ -60,9 +60,6 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 ## Day 03 - 10/5
 
-### Homework
-* Homework 1 due
-* Homework 2 released
 
 ### Class Material
 0. [Dense Linear Algebra](https://uchi-compy23.github.io/notes/02_linear_algebra/numpy_scipy_linalg.html)
@@ -87,7 +84,7 @@ If you don't have much prior experience with matrix factorizations, it is highly
 
 ## Day 04 - 10/10
 ### Homework
-* Homework 3 released
+* Homework 2 released
   
 ### Class Material
 
@@ -102,17 +99,27 @@ If you don't have much prior experience with matrix factorizations, it is highly
 
 ## Day 05 - 10/12
 ### Homework
-* Homework 2 due
+* Homework 1 due
+
+### Class Material
+0. [Unit testing](https://uchi-compy23.github.io/notes/09_computing/unittest.html)
+1. [Linear operators](https://uchi-compy23.github.io/notes/02_linear_algebra/linearoperators.html)
+2. [Sparse matrix formats, `scipy.sparse`](https://uchi-compy23.github.io/notes/02_linear_algebra/sparse.html)
+3. [Sparse Linear Algebra](https://uchi-compy23.github.io/notes/02_linear_algebra/sparse_linalg.html) (We'll start if there is time)
+
+### Reading
+* [`unittest` documentation](https://docs.python.org/3.8/library/unittest.html) **Required** at least skim it to see what is in there.
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **Required**
 
 
 ## Day 06 - 10/17
 ### Homework
 * Project groups finalized
-* 
+  
 ## Day 07 - 10/19
 ### Homework
-* Homework 3 due
-* Homework 4 Released
+* Homework 2 due
+* Homework 3 Released
 
 ## Project
 
