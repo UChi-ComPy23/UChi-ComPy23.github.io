@@ -114,10 +114,13 @@ If you don't have much prior experience with matrix factorizations, it is highly
 
 ### Class material
 0. [Sparse Linear Algebra](https://uchi-compy23.github.io/notes/02_linear_algebra/sparse_linalg.html) (Continued)
-1. 
+1. [Differentiation](https://caam37830.github.io/book/04_functions/differentiation.html)
+2. [Initial Value Problems](https://caam37830.github.io/book/04_functions/ode_initial.html)
 
 ### Reading
-* 
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 105 - 110 (Differentiation) **Required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 165 - 178 (Initial Value Problems) **Required**
+* [SciPy `solve_ivp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html) **Required**
   
 ## Day 07 - 10/19
 ### Homework
