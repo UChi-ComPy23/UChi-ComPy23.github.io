@@ -102,25 +102,35 @@ If you don't have much prior experience with matrix factorizations, it is highly
 * Homework 1 due
 
 ### Class Material
-0. [Unit testing](https://uchi-compy23.github.io/notes/09_computing/unittest.html)
-1. [Linear operators](https://uchi-compy23.github.io/notes/02_linear_algebra/linearoperators.html)
-2. [Sparse matrix formats, `scipy.sparse`](https://uchi-compy23.github.io/notes/02_linear_algebra/sparse.html)
-3. [Sparse Linear Algebra](https://uchi-compy23.github.io/notes/02_linear_algebra/sparse_linalg.html) (We'll start if there is time)
+0. [Linear operators](https://uchi-compy23.github.io/notes/02_linear_algebra/linearoperators.html)
+1. [Sparse matrix formats, `scipy.sparse`](https://uchi-compy23.github.io/notes/02_linear_algebra/sparse.html)
+2. [Sparse Linear Algebra](https://uchi-compy23.github.io/notes/02_linear_algebra/sparse_linalg.html) (We'll start if there is time)
 
 ### Reading
-* [`unittest` documentation](https://docs.python.org/3.8/library/unittest.html) **Required** at least skim it to see what is in there.
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **Required**
 
 
 ## Day 06 - 10/17
 
+### Class material
+0. [Sparse Linear Algebra](https://uchi-compy23.github.io/notes/02_linear_algebra/sparse_linalg.html) (Continued)
+1. 
 
+### Reading
+* 
   
 ## Day 07 - 10/19
 ### Homework
 * Homework 2 due
 * Homework 3 released
 * Project groups finalized
+
+### Class material
+0. [Unit testing](https://uchi-compy23.github.io/notes/09_computing/unittest.html)
+
+### Reading
+* [`unittest` documentation](https://docs.python.org/3.8/library/unittest.html) **Required** at least skim it to see what is in there.
+
 
 ## Project
 
