@@ -130,7 +130,7 @@ If you don't have much prior experience with matrix factorizations, it is highly
 ### Class material
 0. [Initial Value Problems](https://uchi-compy23.github.io/notes/04_functions/ode_initial.html)
 1. [Unit testing](https://uchi-compy23.github.io/notes/09_computing/unittest.html)
-2. [More on Plotting](https://caam37830.github.io/book/00_python/pyplot.html)
+2. [More on Plotting](https://uchi-compy23.github.io/notes/00_python/pyplot.html)
    
 ### Reading
 * [`unittest` documentation](https://docs.python.org/3.8/library/unittest.html) **Required** at least skim it to see what is in there.
