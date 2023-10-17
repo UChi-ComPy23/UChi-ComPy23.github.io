@@ -114,7 +114,7 @@ If you don't have much prior experience with matrix factorizations, it is highly
 
 ### Class material
 0. [Sparse Linear Algebra](https://uchi-compy23.github.io/notes/02_linear_algebra/sparse_linalg.html) (Continued)
-1. [Differentiation](https://uchi-compy23.github.io/notes/04_functions/differentiation.html)
+1. [Differentiation](https://uchi-compy23.github.io/files/differentiation.ipynb)
 
 
 ### Reading
