@@ -131,11 +131,17 @@ If you don't have much prior experience with matrix factorizations, it is highly
 0. [Initial Value Problems](https://uchi-compy23.github.io/notes/04_functions/ode_initial.html)
 1. [Unit testing](https://uchi-compy23.github.io/notes/09_computing/unittest.html)
 2. [More on Plotting](https://uchi-compy23.github.io/notes/00_python/pyplot.html)
+3. [Sympy](https://uchi-compy23.github.io/notes/04_functions/sympy.html)
    
 ### Reading
 * [`unittest` documentation](https://docs.python.org/3.8/library/unittest.html) **Required** at least skim it to see what is in there.
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 165 - 178 (Initial Value Problems) **Required**
 * [Matplotlib tutorials](https://matplotlib.org/tutorials/index.html) **Recommended** take a look around
+
+## Day 08 - 10/24
+### Class material
+0. [Interpolation](https://uchi-compy23.github.io/notes/04_functions/interpolation.html)
+
 
 ## Project
 
