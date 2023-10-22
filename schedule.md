@@ -141,8 +141,18 @@ If you don't have much prior experience with matrix factorizations, it is highly
 ## Day 08 - 10/24
 ### Class material
 0. [Interpolation](https://uchi-compy23.github.io/notes/04_functions/interpolation.html)
+1. [Integration, Quadrature](https://uchi-compy23.github.io/notes/04_functions/integration.html)
 
 
+### Reading
+
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 61 - 104 (Interpolation and Approximation) **Required**
+* [SciPy interpolation tutorial](https://docs.scipy.org/doc/scipy/reference/tutorial/interpolate.html) **Recommended**
+* [PyPlot Use FAQ](https://matplotlib.org/faq/usage_faq.html) **Required** (first half)
+* [Matplotlib tutorials](https://matplotlib.org/tutorials/index.html) **Recommended** take a look around
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 111-123 **Required**
+* [`scipy.integrate.quad`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.quad.html#scipy.integrate.quad) **Recommended**
+  
 ## Project
 
 Groups finalized 10/19.
