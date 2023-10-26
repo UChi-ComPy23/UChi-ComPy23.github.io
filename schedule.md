@@ -152,6 +152,29 @@ If you don't have much prior experience with matrix factorizations, it is highly
 * [Matplotlib tutorials](https://matplotlib.org/tutorials/index.html) **Recommended** take a look around
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 111-123 **Required**
 * [`scipy.integrate.quad`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.quad.html#scipy.integrate.quad) **Recommended**
+
+## Day 09 - 10/26
+### Homework
+* Homework 3 due
+* Homework 4 released
+  
+### Class material
+0. Condition numbers
+1. [Agent-based modeling](https://caam37830.github.io/book/09_computing/agent_based_models.html)
+2. [Python Iterators and Generators](https://caam37830.github.io/book/00_python/iterators.html)
+
+## Reading
+* [Python Tutorial on Iterators](https://docs.python.org/3/tutorial/classes.html#iterators) **Required**
+* [Python Tutorial on Generators](https://docs.python.org/3/tutorial/classes.html#generators) **Required**
+
+## Day 10 - 10/31
+### Homework
+* Project proposal due
+
+## Day 11 - 11/02
+### Homework
+* Homework 4 due
+* Homework 5 released
   
 ## Project
 
