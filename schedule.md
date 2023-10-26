@@ -160,8 +160,8 @@ If you don't have much prior experience with matrix factorizations, it is highly
   
 ### Class material
 0. Condition numbers
-1. [Agent-based modeling](https://caam37830.github.io/book/09_computing/agent_based_models.html)
-2. [Python Iterators and Generators](https://caam37830.github.io/book/00_python/iterators.html)
+1. [Agent-based modeling](https://uchi-compy23.github.io/notes/09_computing/agent_based_models.html)
+2. [Python Iterators and Generators](https://uchi-compy23.github.io/notes/00_python/iterators.html)
 
 ## Reading
 * [Python Tutorial on Iterators](https://docs.python.org/3/tutorial/classes.html#iterators) **Required**
