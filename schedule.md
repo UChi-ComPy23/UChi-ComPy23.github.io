@@ -143,7 +143,6 @@ If you don't have much prior experience with matrix factorizations, it is highly
 0. [Interpolation](https://uchi-compy23.github.io/notes/04_functions/interpolation.html)
 1. [Integration, Quadrature](https://uchi-compy23.github.io/notes/04_functions/integration.html)
 
-
 ### Reading
 
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 61 - 104 (Interpolation and Approximation) **Required**
@@ -168,6 +167,7 @@ If you don't have much prior experience with matrix factorizations, it is highly
 ## Day 10 - 10/31
 ### Homework
 * Project proposal due
+
 ### Class material
 0. [Agent-based modeling](https://uchi-compy23.github.io/notes/09_computing/agent_based_models.html)
 1. [Python Iterators and Generators](https://uchi-compy23.github.io/notes/00_python/iterators.html)
@@ -205,6 +205,7 @@ If you don't have much prior experience with matrix factorizations, it is highly
 ## Day 14 - 11/14
 ### Homework
 * Midterm checkpoint due 11/14
+
 ### Class Material
 
 0. [Linear Algebra in PyTorch](https://uchi-compy23.github.io/notes/02_linear_algebra/pytorch.html)
@@ -214,6 +215,7 @@ If you don't have much prior experience with matrix factorizations, it is highly
 ### Homework
 * Homework 6 due
 * Homework 7 released
+
 ### Class Material
 
 ## Day 16 - 11/28
@@ -222,6 +224,7 @@ If you don't have much prior experience with matrix factorizations, it is highly
 ## Day 17 - 11/30
 ### Homework
 * Homework 7 due
+  
 ### Class Material
 0. Fast Multipole Method
    
