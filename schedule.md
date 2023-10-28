@@ -169,9 +169,10 @@ If you don't have much prior experience with matrix factorizations, it is highly
 ### Homework
 * Project proposal due
 ### Class material
-1. [Agent-based modeling](https://uchi-compy23.github.io/notes/09_computing/agent_based_models.html)
-2. [Python Iterators and Generators](https://uchi-compy23.github.io/notes/00_python/iterators.html)
-
+0. [Agent-based modeling](https://uchi-compy23.github.io/notes/09_computing/agent_based_models.html)
+1. [Python Iterators and Generators](https://uchi-compy23.github.io/notes/00_python/iterators.html)
+2. [Optimization](https://uchi-compy23.github.io/notes/03_optimization/scipy_opt.html)
+   
 ## Reading
 * [Python Tutorial on Generators](https://docs.python.org/3/tutorial/classes.html#generators) **Required**
 
@@ -180,30 +181,50 @@ If you don't have much prior experience with matrix factorizations, it is highly
 ### Homework
 * Homework 4 due
 * Homework 5 released
+  
+### Class Material
+0. [Optimization](https://uchi-compy23.github.io/notes/03_optimization/scipy_opt.html)
+1. [Boundary Value Problems](https://uchi-compy23.github.io/notes/04_functions/bvp.html)
 
 ## Day 12 - 11/07
-
+### Class Material
+0. [Pandas](https://uchi-compy23.github.io/notes/07_data/pandas.html)
+1. [Scikit Learn](https://uchi-compy23.github.io/notes/07_data/sklearn.html)
+   
 ## Day 13 - 11/09
 ### Homework
 * Homework 5 due
 * Homework 6 released
 
+### Class Material
+
+0. [Scikit Learn](https://uchi-compy23.github.io/notes/07_data/sklearn.html)
+1. [Distances](https://uchi-compy23.github.io/notes/08_geometry/distances.html)
+2. [Nearest Neighbor Queries](https://uchi-compy23.github.io/notes/08_geometry/nearestneighbor.html)
+   
 ## Day 14 - 11/14
 ### Homework
 * Midterm checkpoint due 11/14
+### Class Material
+
+0. [Linear Algebra in PyTorch](https://uchi-compy23.github.io/notes/02_linear_algebra/pytorch.html)
+1. [Basic Neural Networks in PyTorch](https://uchi-compy23.github.io/notes/07_data/pytorch.html)
 
 ## Day 15 - 11/16
 ### Homework
 * Homework 6 due
 * Homework 7 released
+### Class Material
 
 ## Day 16 - 11/28
-
+### Class Material
 
 ## Day 17 - 11/30
 ### Homework
 * Homework 7 due
-  
+### Class Material
+0. Fast Multipole Method
+   
 ## Project
 
 Groups finalized 10/19.
