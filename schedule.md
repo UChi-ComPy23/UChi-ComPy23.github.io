@@ -160,21 +160,49 @@ If you don't have much prior experience with matrix factorizations, it is highly
   
 ### Class material
 0. Condition numbers
-1. [Agent-based modeling](https://uchi-compy23.github.io/notes/09_computing/agent_based_models.html)
-2. [Python Iterators and Generators](https://uchi-compy23.github.io/notes/00_python/iterators.html)
+1. [Python Iterators and Generators](https://uchi-compy23.github.io/notes/00_python/iterators.html)
 
 ## Reading
 * [Python Tutorial on Iterators](https://docs.python.org/3/tutorial/classes.html#iterators) **Required**
-* [Python Tutorial on Generators](https://docs.python.org/3/tutorial/classes.html#generators) **Required**
 
 ## Day 10 - 10/31
 ### Homework
 * Project proposal due
+### Class material
+1. [Agent-based modeling](https://uchi-compy23.github.io/notes/09_computing/agent_based_models.html)
+2. [Python Iterators and Generators](https://uchi-compy23.github.io/notes/00_python/iterators.html)
+
+## Reading
+* [Python Tutorial on Generators](https://docs.python.org/3/tutorial/classes.html#generators) **Required**
+
 
 ## Day 11 - 11/02
 ### Homework
 * Homework 4 due
 * Homework 5 released
+
+## Day 12 - 11/07
+
+## Day 13 - 11/09
+### Homework
+* Homework 5 due
+* Homework 6 released
+
+## Day 14 - 11/14
+### Homework
+* Midterm checkpoint due 11/14
+
+## Day 15 - 11/16
+### Homework
+* Homework 6 due
+* Homework 7 released
+
+## Day 16 - 11/28
+
+
+## Day 17 - 11/30
+### Homework
+* Homework 7 due
   
 ## Project
 
