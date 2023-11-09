@@ -200,7 +200,7 @@ If you don't have much prior experience with matrix factorizations, it is highly
 
 0. [Distances](https://uchi-compy23.github.io/notes/08_geometry/distances.html)
 1. [Nearest Neighbor Queries](https://uchi-compy23.github.io/notes/08_geometry/nearestneighbor.html)
-2. [Dimensionality Reduction, Plotly](https://caam37830.github.io/book/07_data/dimension_reduction.html)
+2. [Dimensionality Reduction, Plotly](https://uchi-compy23.github.io/notes/07_data/dimension_reduction.html)
    
 ## Day 14 - 11/14
 ### Homework
