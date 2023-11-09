@@ -184,7 +184,7 @@ If you don't have much prior experience with matrix factorizations, it is highly
   
 ### Class Material
 0. [Optimization](https://uchi-compy23.github.io/notes/03_optimization/scipy_opt.html)
-1. [Boundary Value Problems](https://uchi-compy23.github.io/notes/04_functions/bvp.html)
+
 
 ## Day 12 - 11/07
 ### Class Material
@@ -198,9 +198,9 @@ If you don't have much prior experience with matrix factorizations, it is highly
 
 ### Class Material
 
-0. [Scikit Learn](https://uchi-compy23.github.io/notes/07_data/sklearn.html)
-1. [Distances](https://uchi-compy23.github.io/notes/08_geometry/distances.html)
-2. [Nearest Neighbor Queries](https://uchi-compy23.github.io/notes/08_geometry/nearestneighbor.html)
+0. [Distances](https://uchi-compy23.github.io/notes/08_geometry/distances.html)
+1. [Nearest Neighbor Queries](https://uchi-compy23.github.io/notes/08_geometry/nearestneighbor.html)
+2. [Dimensionality Reduction, Plotly](https://caam37830.github.io/book/07_data/dimension_reduction.html)
    
 ## Day 14 - 11/14
 ### Homework
@@ -227,6 +227,7 @@ If you don't have much prior experience with matrix factorizations, it is highly
   
 ### Class Material
 0. Fast Multipole Method
+1. [Boundary Value Problems](https://uchi-compy23.github.io/notes/04_functions/bvp.html)
    
 ## Project
 
