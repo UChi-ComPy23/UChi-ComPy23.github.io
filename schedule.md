@@ -218,7 +218,7 @@ Cancelled
 
 0. [Basic Neural Networks in PyTorch](https://uchi-compy23.github.io/notes/07_data/pytorch.html)
 1. [Scipy distributions](https://uchi-compy23.github.io/notes/06_probability_statistics/scipy_stats.html)
-2. [Monte Carlo Methods](https://uchi-compy23.github.io/notes/07_data/monte_carlo.html)
+2. [Monte Carlo Methods](https://uchi-compy23.github.io/notes/06_probability_statistics/monte_carlo.html)
 
 ## Day 16 - 11/28
 ### Class Material
