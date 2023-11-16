@@ -197,20 +197,18 @@ If you don't have much prior experience with matrix factorizations, it is highly
 * Homework 6 released
 
 ### Class Material
+Cancelled
 
-0. [Distances](https://uchi-compy23.github.io/notes/08_geometry/distances.html)
-1. [Nearest Neighbor Queries](https://uchi-compy23.github.io/notes/08_geometry/nearestneighbor.html)
-2. [Dimensionality Reduction, Plotly](https://uchi-compy23.github.io/notes/07_data/dimension_reduction.html)
-   
 ## Day 14 - 11/14
 ### Homework
 * Midterm checkpoint due 11/14
 
 ### Class Material
-
-0. [Linear Algebra in PyTorch](https://uchi-compy23.github.io/notes/02_linear_algebra/pytorch.html)
-1. [Basic Neural Networks in PyTorch](https://uchi-compy23.github.io/notes/07_data/pytorch.html)
-
+0. [Distances](https://uchi-compy23.github.io/notes/08_geometry/distances.html)
+1. [Nearest Neighbor Queries](https://uchi-compy23.github.io/notes/08_geometry/nearestneighbor.html)
+2. [Dimensionality Reduction, Plotly](https://uchi-compy23.github.io/notes/07_data/dimension_reduction.html)
+3. [Linear Algebra in PyTorch](https://uchi-compy23.github.io/notes/02_linear_algebra/pytorch.html)
+    
 ## Day 15 - 11/16
 ### Homework
 * Homework 6 due
@@ -218,15 +216,20 @@ If you don't have much prior experience with matrix factorizations, it is highly
 
 ### Class Material
 
+0. [Basic Neural Networks in PyTorch](https://uchi-compy23.github.io/notes/07_data/pytorch.html)
+1. [Scipy distributions](https://uchi-compy23.github.io/notes/06_probability_statistics/scipy_stats.html)
+2. [Monte Carlo Methods](https://uchi-compy23.github.io/notes/07_data/monte_carlo.html)
+
 ## Day 16 - 11/28
 ### Class Material
-
+0. Fast Multipole Method
+   
 ## Day 17 - 11/30
 ### Homework
 * Homework 7 due
   
 ### Class Material
-0. Fast Multipole Method
+0. Fast Fourier Transform (FFT)
 1. [Boundary Value Problems](https://uchi-compy23.github.io/notes/04_functions/bvp.html)
    
 ## Project
