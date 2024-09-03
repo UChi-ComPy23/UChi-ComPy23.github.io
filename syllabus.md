@@ -3,21 +3,23 @@
 Course number: [CAAM 37830=STAT 37830](https://stat.uchicago.edu/academics/course-info/2023-2024-courses/autumn-2023-stat-37830/)
 
 ## People
-Instructor:  [Tristan Goodwill](https://tristangdwl.github.io/). William H. Kruskal Instructor in the Department of Statistics. Office Hours TBD in Jones 316.
+Instructor:  [Tristan Goodwill](https://tristangdwl.github.io/). William H. Kruskal Instructor in the Department of Statistics. OH Tuesdays 3:00-4:00 in Jones 304.
 
-TAs: Runxin Ni and Su Hyeong. Office Hours TBD.
+TA: Runxin Ni. Office Hours Monday 2:30-3:30 in Jones 304. runxin.ni @ uchicago.edu
+
+TA: Su Hyeong. Office Hours Wednesday at 3:30-4:30 in Jones 304. sulee @ uchicago.edu
 
 ## Course Format
 
 This course is scheduled to meet TR 12:30 PM-1:50 PM in Rosenwald 015. 
 
-Homework will be posted Thursday, and due the following Thursday.  We plan to have a homework assignment every week, apart from Thanksgiving break.
+Homework will be posted Thursday, and due the following Thursday at 10 PM.  We plan to have a homework assignment every week, apart from Thanksgiving break.
 
 There will be a course-long group project.  This will include a project proposal, a midterm checkpoint, and a final report.  Groups will be organized a few weeks into the quarter.
 
 ### Prerequisites
 
-Multivariable calculus, Linear algebra, prior programming experience (not necessarily in Python).
+Multivariable calculus, linear algebra, prior programming experience (not necessarily in Python).
 
 Because this is an introductory graduate-level course, the Prerequisites are fairly informal and minimal.  Since we're doing scientific computing, we'll assume some basic familiarity with high-school or introductory undergraduate physical science, and maybe some social science. We'll also assume familiarity with multivariable calculus and linear algebra.  We'll cover some ODEs and PDEs, but not at a level that requires significant prior experience.  Prior programming experience is assumed, but this can be informal.
 
@@ -27,7 +29,7 @@ You will need
 1. A computer, with the ability to install software and run programs
 2. An internet connection
 
-We will assume you are running some [UNIX-based operating system](https://en.wikipedia.org/wiki/Unix) on your computer.  For most people, this will mean either Mac or Linux.  We will not support troubleshooting Windows issues - if you have windows on your computer, I recommend using the highly effective [Windows Linux Subsystem](https://docs.microsoft.com/en-us/windows/wsl/).
+We will assume you are running some [UNIX-based operating system](https://en.wikipedia.org/wiki/Unix) on your computer.  For most people, this will mean either Mac or Linux.  We will not support troubleshooting Windows issues - if you have Windows on your computer please download [Windows Subsystem Linux](https://docs.microsoft.com/en-us/windows/wsl/).
 
 In addition to a University of Chicago account, you'll need to create a [GitHub](https://github.com/) account as assignments will be distributed through GitHub classroom.  Any work you do will be kept in private repositories.  If you want, you can create a "burner" account that isn't associated with your primary account (if you already have one).
 
@@ -47,13 +49,15 @@ There are several things your work will be evaluated on
 4. Team work - we'll ask your teammates to evaluate whether you performed a fair share of the work.
 
 ### Late Work Policy
-Two 48 hour extensions assignments will automatically granted per student, no questions asked and no notification necessary. Beyond those that, exceptions will only be granted in abnormal circumstances.
+Deadlines have a 2 hour grace period to compensate for technical issues. Work submitted after that grace period is considered late.
 
-Project related extensions will be only be granted in abnormal circumstances.
+**Individual work:** Two 48 hour extensions will automatically granted per student, no questions asked. However, you do need to notify both of the TAs before the deadline. Beyond those, exceptions will only be granted in abnormal circumstances.
+
+**Group work:** Project related extensions will be only be granted in abnormal circumstances.
 
 If an assignment is taking an unreasonable amount of time to complete, please let us know.  If this is done a few days before the due date, the assignment may be adjusted.
 
-### Regrade Request
+### Regrade Requests
 
 You will have one week from the day assignment grades are released to request a regrade. 
 
@@ -69,9 +73,9 @@ You are welcome to make your solutions publicly available, but **please wait unt
 
 The group project will be judged collectively - you do not need to say who did what.  This will all be recorded by git logs anyways.
 
-### The use of NLP-based Tools
+### The Use of NLP-based Tools
 
-There are many natural language processing Tools available, such as GitHub co-pilot and ChatGPT, which can generate code efficiently.
+There are many natural language processing tools available, which can be used to generate good code efficiently. In this course, however, we will be developing skills and knowledge that are important to discover and practice on your own. Because use of AI tools inhibits development of these skills and knowledge, students are not allowed to use any AI tools, such as ChatGPT or DallE 2, in this course. Students are expected to present work that is their own without assistance from automated tools. If you are unclear if something is an AI tool, please check with your instructor. Using AI tools for any purposes in this course will violate the [University’s academic integrity policy](https://studentmanual.uchicago.edu/academic-policies/academic-honesty-plagiarism/) and be treated as such. 
 
 ## Textbook & Readings
 

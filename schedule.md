@@ -14,11 +14,12 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 ## Day 00 - 9/31
 ### Class Material
+[Intro Slides](https://uchi-compy23.github.io/files/Course_intro.pptx)
 
-0. [Python Basics](https://uchi-compy23.github.io/notes/00_python/basics.html)
-1. [Bits, Bytes, and Numbers](https://uchi-compy23.github.io/notes/00_python/bitsbytes.html)
-2. [Basic Containers and Packages](https://uchi-compy23.github.io/notes/00_python/basic_packages.html)
-3. [Python Scripts](https://uchi-compy23.github.io/notes/00_python/using_python.html#python-scripts)  [[Example Script](https://github.com/uchi-compy23/materials/blob/master/lectures/01/script.py)] [[Download Example](https://raw.githubusercontent.com/uchi-compy23/materials/master/lectures/01/script.py)]
+0. [Python Scripts](https://uchi-compy23.github.io/notes/00_python/using_python.html#python-scripts)  [[Example Script](https://github.com/uchi-compy23/materials/blob/master/lectures/01/script.py)] [[Download Example](https://raw.githubusercontent.com/uchi-compy23/materials/master/lectures/01/script.py)]
+1. [Python Basics](https://uchi-compy23.github.io/notes/00_python/basics.html)
+
+3. [Basic Containers and Packages](https://uchi-compy23.github.io/notes/00_python/basic_packages.html)
 
 ### Reading
 
@@ -31,27 +32,32 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 ## Day 01 - 10/02
 ### Homework
-
 * Homework 0 released.
+* See the [git tutorial](https://github.com/caam37830/git-tutorial) if you are not familiar with git version control.
+  
+### Class Material
 
-## Day 03 - 10/5
-### Homework
+0. [Functions in Python](https://uchi-compy23.github.io/notes/00_python/functions.html)
+1. [Asymptotic notation](https://uchi-compy23.github.io/notes/01_analysis/asymptotic_notation.html)
+2. [Recursion](https://uchi-compy23.github.io/notes/01_analysis/recursion.html)
+3. [Bits, Bytes, and Numbers](https://uchi-compy23.github.io/notes/00_python/bitsbytes.html)
 
-* Homework 0 due.
-* Homework 1 released.
+### Reading
+
+* [Functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions) **Required**
+* [More on defining functions](https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions) **Required**
+* [Function definitions](https://docs.python.org/3/reference/compound_stmts.html#function-definitions) **Recommended**
 
 ## Project
 
-Groups finalized 10/17.
+Groups finalized 10/21.
 
-Project proposal due 10/31.
+Project proposal due 11/5.
 
-Midterm checkpoint due 11/14.
+Midterm checkpoint due 11/19.
 
-Final Project report due 12/7.
+Final Project report due 12/11.
 
 ## Finals Period
 
-College reading period is 12/2-12/4
-
-
+College reading period is 12/7-12/9
