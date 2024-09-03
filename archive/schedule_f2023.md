@@ -4,15 +4,15 @@ Be sure to refresh this page to see the most recent version.
 
 This course follows a Tuesday/Thursday schedule.  There is a section for each day, with materials for that day.  This schedule is subject to change before a class is held.
 
-Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/schedule_f2021.md) [Winter 2022](archive/schedule_w2022.md) [Fall 2023](archive/schedule_f2023.md)
+Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/schedule_f2021.md) [Winter 2022](archive/schedule_w2022.md)
 
 ## System Setup
-0. [Basic Bash](https://uchi-compy23.github.io/notes/09_computing/basic_bash.html)
-1. [Install Anaconda Python](https://github.com/uchi-compy23/materials/blob/master/lectures/00/conda.md)
-2. [Install Jupyter notebooks](https://github.com/uchi-compy23/materials/blob/master/lectures/00/jupyter.ipynb)
+0. [Basic Bash](https://uchi-compy23.github.io/notes/09_computing/basic_bash.html) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e4dcb80-5d0b-41a6-8386-ac3e011e86ca)]
+1. [Install Anaconda Python](https://github.com/uchi-compy23/materials/blob/master/lectures/00/conda.md) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af0fb6d1-ff96-4ac3-8daa-ac38001795f8)]
+2. [Install Jupyter notebooks](https://github.com/uchi-compy23/materials/blob/master/lectures/00/jupyter.ipynb) [[Video Walkthrough](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d30f69a5-9599-4f5f-b7ca-ac3800ee0966)]
 3. [Using Python](https://uchi-compy23.github.io/notes/00_python/using_python.html)
 
-## Day 00 - 9/31
+## Day 00 - 9/26
 ### Class Material
 
 0. [Python Basics](https://uchi-compy23.github.io/notes/00_python/basics.html)
@@ -29,7 +29,7 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 * [Top-10 Algorithms of the 20th Century](https://archive.siam.org/pdf/news/637.pdf) by B. Cipra. **Recommended** for those interested in the culture of scientific computing.
   
 
-## Day 01 - 10/02
+## Day 01 - 9/28
 ### Homework
 
 * Homework 0 released.
