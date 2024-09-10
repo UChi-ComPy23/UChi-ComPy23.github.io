@@ -12,7 +12,7 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 2. [Install Jupyter notebooks](https://github.com/uchi-compy23/materials/blob/master/lectures/00/jupyter.ipynb)
 3. [Using Python](https://uchi-compy23.github.io/notes/00_python/using_python.html)
 
-## Day 00 - 9/31
+## Day 00 - 10/01
 ### Class Material
 [Intro Slides](https://uchi-compy23.github.io/files/Course_intro.pptx)
 
@@ -30,7 +30,7 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 * [Top-10 Algorithms of the 20th Century](https://archive.siam.org/pdf/news/637.pdf) by B. Cipra. **Recommended** for those interested in the culture of scientific computing.
   
 
-## Day 01 - 10/02
+## Day 01 - 10/03
 ### Homework
 * Homework 0 released.
 * See the [git tutorial](https://github.com/caam37830/git-tutorial) if you are not familiar with git version control.
