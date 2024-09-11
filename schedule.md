@@ -8,7 +8,7 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 ## System Setup
 0. [Basic Bash](https://uchi-compy23.github.io/notes/09_computing/basic_bash.html)
-1. [Install Anaconda Python](https://github.com/uchi-compy23/materials/blob/master/lectures/00/conda.md)
+1. [Install Anaconda Python](https://uchi-compy23.github.io/notes/00_python/conda.html)
 2. [Install Jupyter notebooks](https://github.com/uchi-compy23/materials/blob/master/lectures/00/jupyter.ipynb)
 3. [Using Python](https://uchi-compy23.github.io/notes/00_python/using_python.html)
 
