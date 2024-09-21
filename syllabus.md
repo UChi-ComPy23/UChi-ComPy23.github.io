@@ -7,7 +7,7 @@ Instructor:  [Tristan Goodwill](https://tristangdwl.github.io/). William H. Krus
 
 TA: Runxin Ni. OH TBD. runxin.ni @ uchicago.edu
 
-TA: Hongli Zhao. OH TBD. honglizhaobob @ uchicago.edu
+TA: Bob Zhao. OH TBD. honglizhaobob @ uchicago.edu
 
 ## Course Format
 
