@@ -3,7 +3,7 @@
 Course number: [CAAM 37830=STAT 37830](https://stat.uchicago.edu/academics/course-info/2023-2024-courses/autumn-2023-stat-37830/)
 
 ## People
-Instructor:  [Tristan Goodwill](https://tristangdwl.github.io/). William H. Kruskal Instructor in the Department of Statistics. OH Tuesdays at TBD in Jones 316.
+Instructor:  [Tristan Goodwill](https://tristangdwl.github.io/). William H. Kruskal Instructor in the Department of Statistics. OH Wednesdays 10:30 - 11:30 in Jones 304.
 
 TA: Runxin Ni. OH Fridays 12 - 1 in Jones 226. runxin.ni @ uchicago.edu
 
