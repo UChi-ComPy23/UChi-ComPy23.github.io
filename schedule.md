@@ -11,6 +11,7 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 1. [Install Anaconda Python](https://uchi-compy23.github.io/notes/00_python/conda.html)
 2. [Install Jupyter notebooks](https://uchi-compy23.github.io/notes/00_python/jupyter.html)
 3. [Using Python](https://uchi-compy23.github.io/notes/00_python/using_python.html)
+4. [Asymptotic notation](https://uchi-compy23.github.io/notes/01_analysis/asymptotic_notation.html)
 
 ## Day 00 - 10/01
 ### Class Material
@@ -38,9 +39,10 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 ### Class Material
 
 0. [Functions in Python](https://uchi-compy23.github.io/notes/00_python/functions.html)
-1. [Asymptotic notation](https://uchi-compy23.github.io/notes/01_analysis/asymptotic_notation.html)
-2. [Recursion](https://uchi-compy23.github.io/notes/01_analysis/recursion.html)
-3. [Bits, Bytes, and Numbers](https://uchi-compy23.github.io/notes/00_python/bitsbytes.html)
+1. [Recursion](https://uchi-compy23.github.io/notes/01_analysis/recursion.html)
+2. [Bits, Bytes, and Numbers](https://uchi-compy23.github.io/notes/00_python/bitsbytes.html)
+3. [Decorators](https://uchi-compy23.github.io/notes/00_python/decorators.html)
+4. [Vectorization, numpy ufuncs, numba](https://uchi-compy23.github.io/notes/09_computing/performance/numpy_ufuncs.html)
 
 ### Reading
 
