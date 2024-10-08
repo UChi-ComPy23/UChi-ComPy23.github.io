@@ -11,8 +11,7 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 1. [Install Anaconda Python](https://uchi-compy23.github.io/notes/00_python/conda.html)
 2. [Install Jupyter notebooks](https://uchi-compy23.github.io/notes/00_python/jupyter.html)
 3. [Using Python](https://uchi-compy23.github.io/notes/00_python/using_python.html)
-4. [Asymptotic notation](https://uchi-compy23.github.io/notes/01_analysis/asymptotic_notation.html)
-
+4. 
 ## Day 00 - 10/01
 ### Class Material
 [Intro Slides](https://uchi-compy23.github.io/files/Course_intro_2024.key)
@@ -41,6 +40,8 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 0. [Functions in Python](https://uchi-compy23.github.io/notes/00_python/functions.html)
 1. [Recursion](https://uchi-compy23.github.io/notes/01_analysis/recursion.html)
 2. [Bits, Bytes, and Numbers](https://uchi-compy23.github.io/notes/00_python/bitsbytes.html)
+3. [Asymptotic notation](https://uchi-compy23.github.io/notes/01_analysis/asymptotic_notation.html)
+
 
 ### Reading
 
