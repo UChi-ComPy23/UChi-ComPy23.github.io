@@ -50,9 +50,39 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 ## Day 02 - 10/08
 ### Class Material
-1. [Decorators](https://uchi-compy23.github.io/notes/00_python/decorators.html)
-2. [Vectorization, numpy ufuncs, numba](https://uchi-compy23.github.io/notes/09_computing/performance/numpy_ufuncs.html)
+0. [Decorators](https://uchi-compy23.github.io/notes/00_python/decorators.html)
+1. [Vectorization, numpy ufuncs, numba](https://uchi-compy23.github.io/notes/09_computing/performance/numpy_ufuncs.html)
+2. [Memory layout](https://uchi-compy23.github.io/notes/02_linear_algebra/memory.html)
 
+### Reading
+* [NumPy Ufuncs](https://numpy.org/doc/stable/reference/ufuncs.html) **Recommended**
+
+
+
+## Day 03 - 10/5
+### Homework
+* Homework 0 due.
+* Homework 1 released.
+
+### Class Material
+0. [Dense Linear Algebra](https://uchi-compy23.github.io/notes/02_linear_algebra/numpy_scipy_linalg.html)
+1. [SciPy BLAS and LAPACK Interfaces](https://uchi-compy23.github.io/notes/02_linear_algebra/blas_lapack.html)
+2. [Python Objects, OOP](https://uchi-compy23.github.io/notes/00_python/classes.html)
+If you don't have much prior experience with matrix factorizations, it is highly recommended to go through the exercises in the notebook.
+
+### Reading
+
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 13 - 18 (Creation of matrices) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 28 - 38 (Basic Matrix Manipulation) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 38 - 41 (Matrix Factorizations) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 54 - 55 (Eigenvalue Decompositions) **required**
+
+* [LAPACK on netlib](https://www.netlib.org/lapack/) **Optional**
+* [BLAS on netlib](https://www.netlib.org/blas/) **Optional**
+
+  
+* [Classes](https://docs.python.org/3/tutorial/classes.html) **Required** at least through 9.5 (inheritance)
+* [Class definitions](https://docs.python.org/3/reference/compound_stmts.html#class-definitions) **Recommended**
 
 
 
