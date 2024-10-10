@@ -60,16 +60,16 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 
 
-## Day 03 - 10/5
+## Day 03 - 10/10
 ### Homework
 * Homework 0 due.
 * Homework 1 released.
 
 ### Class Material
-0. [Dense Linear Algebra](https://uchi-compy23.github.io/notes/02_linear_algebra/numpy_scipy_linalg.html)
+0. [Dense Linear Algebra](https://uchi-compy23.github.io/notes/02_linear_algebra/numpy_scipy_linalg.html) If you don't have much prior experience with matrix factorizations, it is highly recommended to go through the exercises in the notebook.
 1. [SciPy BLAS and LAPACK Interfaces](https://uchi-compy23.github.io/notes/02_linear_algebra/blas_lapack.html)
 2. [Python Objects, OOP](https://uchi-compy23.github.io/notes/00_python/classes.html)
-If you don't have much prior experience with matrix factorizations, it is highly recommended to go through the exercises in the notebook.
+
 
 ### Reading
 
@@ -84,6 +84,22 @@ If you don't have much prior experience with matrix factorizations, it is highly
   
 * [Classes](https://docs.python.org/3/tutorial/classes.html) **Required** at least through 9.5 (inheritance)
 * [Class definitions](https://docs.python.org/3/reference/compound_stmts.html#class-definitions) **Recommended**
+
+
+## Day 04 - 10/15
+### Homework
+* Homework 2 released
+  
+### Class Material
+
+0. [Modules and Packages](https://uchi-compy23.github.io/notes/00_python/modules.html) [[GitHub repository](https://github.com/uchi-compy23/python-packages)]
+1. [Convergence of Algorithms](https://uchi-compy23.github.io/notes/01_analysis/convergence.html)
+2. [Root Finding](https://uchi-compy23.github.io/notes/04_functions/roots.html)
+     
+### Reading
+
+* [Modules](https://docs.python.org/3/tutorial/modules.html) **Required**
+* [Newton's Method](https://mathworld.wolfram.com/NewtonsMethod.html) on Wolfram Mathworld **Recommended**
 
 
 
