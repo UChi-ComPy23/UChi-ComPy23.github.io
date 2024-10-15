@@ -11,7 +11,7 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 1. [Install Anaconda Python](https://uchi-compy23.github.io/notes/00_python/conda.html)
 2. [Install Jupyter notebooks](https://uchi-compy23.github.io/notes/00_python/jupyter.html)
 3. [Using Python](https://uchi-compy23.github.io/notes/00_python/using_python.html)
-4. 
+   
 ## Day 00 - 10/01
 ### Class Material
 [Intro Slides](https://uchi-compy23.github.io/files/Course_intro_2024.key)
@@ -67,7 +67,6 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 ### Class Material
 0. [Dense Linear Algebra](https://uchi-compy23.github.io/notes/02_linear_algebra/numpy_scipy_linalg.html) If you don't have much prior experience with matrix factorizations, it is highly recommended to go through the exercises in the notebook.
-1. [SciPy BLAS and LAPACK Interfaces](https://uchi-compy23.github.io/notes/02_linear_algebra/blas_lapack.html)
 2. [Python Objects, OOP](https://uchi-compy23.github.io/notes/00_python/classes.html)
 
 
@@ -92,9 +91,10 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
   
 ### Class Material
 
-0. [Modules and Packages](https://uchi-compy23.github.io/notes/00_python/modules.html) [[GitHub repository](https://github.com/uchi-compy23/python-packages)]
-1. [Convergence of Algorithms](https://uchi-compy23.github.io/notes/01_analysis/convergence.html)
-2. [Root Finding](https://uchi-compy23.github.io/notes/04_functions/roots.html)
+0. [SciPy BLAS and LAPACK Interfaces](https://uchi-compy23.github.io/notes/02_linear_algebra/blas_lapack.html)
+1. [Modules and Packages](https://uchi-compy23.github.io/notes/00_python/modules.html) [[GitHub repository](https://github.com/uchi-compy23/python-packages)]
+2. [Convergence of Algorithms](https://uchi-compy23.github.io/notes/01_analysis/convergence.html)
+3. [Root Finding](https://uchi-compy23.github.io/notes/04_functions/roots.html)
      
 ### Reading
 
