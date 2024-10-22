@@ -111,7 +111,9 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 ### Reading
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **Required**
 
-
+## 10/26
+### Homework
+* Homework 2 due
 
 ## Project
 
