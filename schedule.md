@@ -133,16 +133,45 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 ### Class material
 0. [Initial Value Problems](https://uchi-compy23.github.io/notes/04_functions/ode_initial.html)
 1. [Unit testing](https://uchi-compy23.github.io/notes/09_computing/unittest.html)
-2. [More on Plotting](https://uchi-compy23.github.io/notes/00_python/pyplot.html)
-3. [Sympy](https://uchi-compy23.github.io/notes/04_functions/sympy.html)
+2. [Sympy](https://uchi-compy23.github.io/notes/04_functions/sympy.html)
    
 ### Reading
 * [`unittest` documentation](https://docs.python.org/3.8/library/unittest.html) **Required** at least skim it to see what is in there.
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 165 - 178 (Initial Value Problems) **Required**
+
+
+## Day 08 - 10/21
+
+### Class material
+0. [More on Plotting](https://uchi-compy23.github.io/notes/00_python/pyplot.html)
+1. [Interpolation](https://uchi-compy23.github.io/notes/04_functions/interpolation.html)
+2. [Integration, Quadrature](https://uchi-compy23.github.io/notes/04_functions/integration.html)
+
+
+### Reading
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 61 - 104 (Interpolation and Approximation) **Required**
+* [SciPy interpolation tutorial](https://docs.scipy.org/doc/scipy/reference/tutorial/interpolate.html) **Recommended**
+* [PyPlot Use FAQ](https://matplotlib.org/faq/usage_faq.html) **Required** (first half)
 * [Matplotlib tutorials](https://matplotlib.org/tutorials/index.html) **Recommended** take a look around
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 111-123 **Required**
+* [`scipy.integrate.quad`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.quad.html#scipy.integrate.quad) **Recommended**
 
-## Day 08 - 10/24
 
+## Day 09 - 11/05
+### Homework
+* Homework 3 due
+* Homework 4 released
+* Project proposal due
+
+
+### Class material
+0. Condition numbers
+1. [Python Iterators and Generators](https://uchi-compy23.github.io/notes/00_python/iterators.html)
+
+## Reading
+* [Python Tutorial on Iterators](https://docs.python.org/3/tutorial/classes.html#iterators) **Required**
+
+ 
 ## Project
 
 Groups finalized 10/21.
