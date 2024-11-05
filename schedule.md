@@ -165,8 +165,10 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 
 ### Class material
-0. Condition numbers
+0. [Integration, Quadrature](https://uchi-compy23.github.io/notes/04_functions/integration.html) (continued)
 1. [Python Iterators and Generators](https://uchi-compy23.github.io/notes/00_python/iterators.html)
+2. Condition numbers
+
 
 ## Reading
 * [Python Tutorial on Iterators](https://docs.python.org/3/tutorial/classes.html#iterators) **Required**
