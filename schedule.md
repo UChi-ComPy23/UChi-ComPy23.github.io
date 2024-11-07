@@ -180,15 +180,6 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 2. [Optimization](https://uchi-compy23.github.io/notes/03_optimization/scipy_opt.html)
    
 
-## Day 11 - 11/02
-### Homework
-* Homework 4 due
-* Homework 5 released
-  
-### Class Material
-0. [Optimization](https://uchi-compy23.github.io/notes/03_optimization/scipy_opt.html)
-
-
  
 ## Project
 
