@@ -187,7 +187,7 @@ Groups finalized 10/21.
 
 Project proposal due 11/5.
 
-Midterm checkpoint due 11/19.
+Midterm checkpoint due 11/20.
 
 Final Project report due 12/11.
 
