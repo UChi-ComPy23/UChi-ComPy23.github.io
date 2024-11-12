@@ -189,6 +189,13 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 1. [Scikit Learn](https://uchi-compy23.github.io/notes/07_data/sklearn.html)
    
 
+## Day 12 - 11/14
+### Class Material
+0. [Distances](https://uchi-compy23.github.io/notes/08_geometry/distances.html)
+1. [Nearest Neighbor Queries](https://uchi-compy23.github.io/notes/08_geometry/nearestneighbor.html)
+2. [Dimensionality Reduction, Plotly](https://uchi-compy23.github.io/notes/07_data/dimension_reduction.html)
+3. [Linear Algebra in PyTorch](https://uchi-compy23.github.io/notes/02_linear_algebra/pytorch.html)
+    
  
 ## Project
 
