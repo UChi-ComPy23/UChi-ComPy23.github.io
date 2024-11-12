@@ -178,6 +178,15 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 ### Class material
 0. [Agent-based modeling](https://uchi-compy23.github.io/notes/09_computing/agent_based_models.html)
 2. [Optimization](https://uchi-compy23.github.io/notes/03_optimization/scipy_opt.html)
+
+## Day 11 - 11/12
+### Homework
+* Homework 4 due
+* Homework 5 released
+
+### Class Material
+0. [Pandas](https://uchi-compy23.github.io/notes/07_data/pandas.html)
+1. [Scikit Learn](https://uchi-compy23.github.io/notes/07_data/sklearn.html)
    
 
  
