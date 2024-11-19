@@ -194,9 +194,25 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 0. [Distances](https://uchi-compy23.github.io/notes/08_geometry/distances.html)
 1. [Nearest Neighbor Queries](https://uchi-compy23.github.io/notes/08_geometry/nearestneighbor.html)
 2. [Dimensionality Reduction, Plotly](https://uchi-compy23.github.io/notes/07_data/dimension_reduction.html)
-3. [Linear Algebra in PyTorch](https://uchi-compy23.github.io/notes/02_linear_algebra/pytorch.html)
-    
- 
+
+
+## Day 13 - 11/19
+### Homework
+* Homework 5 due
+* Homework 6 released
+* 
+### Class Material
+0. [Dimensionality Reduction, Plotly](https://uchi-compy23.github.io/notes/07_data/dimension_reduction.html) (continued)
+1. [Linear Algebra in PyTorch](https://uchi-compy23.github.io/notes/02_linear_algebra/pytorch.html)
+2. [Basic Neural Networks in PyTorch](https://uchi-compy23.github.io/notes/07_data/pytorch.html)
+
+   
+## Project checkpoint - 11/20
+
+## Day 14 - 11/21
+0. [Scipy distributions](https://uchi-compy23.github.io/notes/06_probability_statistics/scipy_stats.html)
+1. [Monte Carlo Methods](https://uchi-compy23.github.io/notes/06_probability_statistics/monte_carlo.html)
+
 ## Project
 
 Groups finalized 10/21.
