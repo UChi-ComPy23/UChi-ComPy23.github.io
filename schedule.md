@@ -213,6 +213,15 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 0. [Scipy distributions](https://uchi-compy23.github.io/notes/06_probability_statistics/scipy_stats.html)
 1. [Monte Carlo Methods](https://uchi-compy23.github.io/notes/06_probability_statistics/monte_carlo.html)
 2. Introduction to Fourier methods
+
+## Day 15 - 12/03
+### Class Material
+0. Writing feedback
+1. Introduction to Fourier methods
+
+## Day 16 - 12/05
+0. [Boundary Value Problems](https://uchi-compy23.github.io/notes/04_functions/bvp.html)
+1. Fast Multipole Method
    
 ## Project
 
