@@ -231,7 +231,7 @@ Project proposal due 11/5.
 
 Midterm checkpoint due 11/20.
 
-Final Project report due 12/11.
+Final Project report due 12/12.
 
 ## Finals Period
 
