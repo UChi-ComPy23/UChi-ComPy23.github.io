@@ -7,7 +7,7 @@ Instructor:  [Tristan Goodwill](https://tristangdwl.github.io/). William H. Krus
 
 TA: Tina Wang. OH Mondays from 1 - 2 in Jones 304. jw2181 @ uchicago.edu
 
-TA: Bob Zhao. OH Fridays 3 - 4 in Jones 304. honglizhaobob @ uchicago.edu
+TA: Bob Zhao. OH Fridays from 3 - 4 in Jones 304. honglizhaobob @ uchicago.edu
 
 ## Course Format
 
