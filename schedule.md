@@ -35,6 +35,21 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 * Homework 0 released.
 * See the [git tutorial](https://github.com/caam37830/git-tutorial) if you are not familiar with git version control.
 
+### Class Material
+
+0. [Functions in Python](https://uchi-compy23.github.io/notes/00_python/functions.html)
+1. [Recursion](https://uchi-compy23.github.io/notes/01_analysis/recursion.html)
+2. [Bits, Bytes, and Numbers](https://uchi-compy23.github.io/notes/00_python/bitsbytes.html)
+3. [Asymptotic notation](https://uchi-compy23.github.io/notes/01_analysis/asymptotic_notation.html)
+
+
+### Reading
+
+* [Functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions) **Required**
+* [More on defining functions](https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions) **Required**
+* [Function definitions](https://docs.python.org/3/reference/compound_stmts.html#function-definitions) **Recommended**
+
+
 ## Project
 
 Groups finalized 10/20.
