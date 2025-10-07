@@ -50,6 +50,18 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 * [Function definitions](https://docs.python.org/3/reference/compound_stmts.html#function-definitions) **Recommended**
 
 
+
+## Day 02 - 10/07
+### Class Material
+0. [Decorators](https://uchi-compy23.github.io/notes/00_python/decorators.html)
+1. [Vectorization, numpy ufuncs, numba](https://uchi-compy23.github.io/notes/09_computing/performance/numpy_ufuncs.html)
+2. [Memory layout](https://uchi-compy23.github.io/notes/02_linear_algebra/memory.html)
+
+### Reading
+* [NumPy Ufuncs](https://numpy.org/doc/stable/reference/ufuncs.html) **Recommended**
+
+
+
 ## Project
 
 Groups finalized 10/20.
