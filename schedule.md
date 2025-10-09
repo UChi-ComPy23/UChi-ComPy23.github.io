@@ -62,6 +62,45 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 * [NumPy Ufuncs](https://numpy.org/doc/stable/reference/ufuncs.html) **Recommended**
 
 
+## Day 03 - 10/09
+### Homework
+* Homework 0 due.
+* Homework 1 released.
+
+### Class Material
+0. [Python Objects, OOP](https://uchi-compy23.github.io/notes/00_python/classes.html) (continued)
+1. [Dense Linear Algebra](https://uchi-compy23.github.io/notes/02_linear_algebra/numpy_scipy_linalg.html) If you don't have much prior experience with matrix factorizations, it is highly recommended to go through the exercises in the notebook.
+2. [SciPy BLAS and LAPACK Interfaces](https://uchi-compy23.github.io/notes/02_linear_algebra/blas_lapack.html)
+
+### Reading
+
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 13 - 18 (Creation of matrices) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 28 - 38 (Basic Matrix Manipulation) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 38 - 41 (Matrix Factorizations) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 54 - 55 (Eigenvalue Decompositions) **required**
+
+* [LAPACK on netlib](https://www.netlib.org/lapack/) **Optional**
+* [BLAS on netlib](https://www.netlib.org/blas/) **Optional**
+
+  
+* [Classes](https://docs.python.org/3/tutorial/classes.html) **Required** at least through 9.5 (inheritance)
+* [Class definitions](https://docs.python.org/3/reference/compound_stmts.html#class-definitions) **Recommended**
+
+
+
+
+## Day 04 - 10/14
+### Class Material
+
+0. [Modules and Packages](https://uchi-compy23.github.io/notes/00_python/modules.html) [[GitHub repository](https://github.com/uchi-compy23/python-packages)]
+1. [Convergence of Algorithms](https://uchi-compy23.github.io/notes/01_analysis/convergence.html)
+2. [Root Finding](https://uchi-compy23.github.io/notes/04_functions/roots.html)
+     
+### Reading
+
+* [Modules](https://docs.python.org/3/tutorial/modules.html) **Required**
+* [Newton's Method](https://mathworld.wolfram.com/NewtonsMethod.html) on Wolfram Mathworld **Recommended**
+
 
 ## Project
 
