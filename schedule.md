@@ -101,7 +101,6 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 * [Modules](https://docs.python.org/3/tutorial/modules.html) **Required**
 * [Newton's Method](https://mathworld.wolfram.com/NewtonsMethod.html) on Wolfram Mathworld **Recommended**
 
-
 ## Project
 
 Groups finalized 10/20.
