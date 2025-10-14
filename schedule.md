@@ -93,7 +93,7 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 0. [Dense Linear Algebra](https://uchi-compy23.github.io/notes/02_linear_algebra/numpy_scipy_linalg.html) (Continued)
 1. [SciPy BLAS and LAPACK Interfaces](https://uchi-compy23.github.io/notes/02_linear_algebra/blas_lapack.html)
-2. [Modules and Packages](https://uchi-compy23.github.io/notes/00_python/modules.html) [[GitHub repository](https://github.com/uchi-compy23/python-packages)]
+2. [Modules and Packages](https://uchi-compy23.github.io/notes/00_python/modules.html) [[GitHub repository](https://github.com/UChi-ComPy23/notes/tree/master/00_python/mypack)
 3. [Convergence of Algorithms](https://uchi-compy23.github.io/notes/01_analysis/convergence.html)
 4. [Root Finding](https://uchi-compy23.github.io/notes/04_functions/roots.html)
      
