@@ -5,7 +5,7 @@ Course number: [CAAM 37830=STAT 37830](https://stat.uchicago.edu/academics/cours
 ## People
 Instructor:  [Tristan Goodwill](https://tristangdwl.github.io/). William H. Kruskal Instructor in the Department of Statistics. OH Wednesdays 12:30 - 1:30 in Jones 304. tgoodwill @ uchicago.edu
 
-TA: Tina Wang. OH Mondays from 1 - 2 in Jones 304. jw2181 @ uchicago.edu
+TA: Tina Wang. OH Mondays from 1 - 2 in Gates-Blake 321. jw2181 @ uchicago.edu
 
 TA: Bob Zhao. OH Fridays from 3 - 4 in Jones 304. honglizhaobob @ uchicago.edu
 
