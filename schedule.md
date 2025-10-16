@@ -86,8 +86,6 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 * [Class definitions](https://docs.python.org/3/reference/compound_stmts.html#class-definitions) **Recommended**
 
 
-
-
 ## Day 04 - 10/14
 ### Class Material
 
@@ -101,6 +99,19 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 * [Modules](https://docs.python.org/3/tutorial/modules.html) **Required**
 * [Newton's Method](https://mathworld.wolfram.com/NewtonsMethod.html) on Wolfram Mathworld **Recommended**
+
+
+
+## Day 05 - 10/16
+### Class Material
+0. [Linear operators](https://uchi-compy23.github.io/notes/02_linear_algebra/linearoperators.html)
+1. [Sparse matrix formats, `scipy.sparse`](https://uchi-compy23.github.io/notes/02_linear_algebra/sparse.html)
+2. [Sparse Linear Algebra](https://uchi-compy23.github.io/notes/02_linear_algebra/sparse_linalg.html)
+
+### Reading
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **Required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 105 - 110 (Differentiation) **Required**
+  
 
 ## Project
 
