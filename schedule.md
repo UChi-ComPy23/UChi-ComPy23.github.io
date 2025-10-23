@@ -121,8 +121,24 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 ### Reading
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 105 - 110 (Differentiation) **Required**
+
+
+## Day 07 - 10/23
+### Homework
+* Homework 2 due
+* Homework 3 released
+
+### Class material
+0. [Differentiation](https://uchi-compy23.github.io/files/differentiation.ipynb) (Continued
+1. [Initial Value Problems](https://uchi-compy23.github.io/notes/04_functions/ode_initial.html)
+2. [Unit testing](https://uchi-compy23.github.io/notes/09_computing/unittest.html)
+3. [Sympy](https://uchi-compy23.github.io/notes/04_functions/sympy.html)
+   
+### Reading
+* [`unittest` documentation](https://docs.python.org/3.8/library/unittest.html) **Required** at least skim it to see what is in there.
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 165 - 178 (Initial Value Problems) **Required**
 * [SciPy `solve_ivp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html) **Required**
-  
+
 
 ## Project
 
