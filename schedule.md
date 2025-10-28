@@ -139,6 +139,22 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 165 - 178 (Initial Value Problems) **Required**
 * [SciPy `solve_ivp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html) **Required**
 
+## Day 08 - 10/28
+
+### Class material
+0. [More on Plotting](https://uchi-compy23.github.io/notes/00_python/pyplot.html)
+1. [Interpolation](https://uchi-compy23.github.io/notes/04_functions/interpolation.html)
+2. [Integration, Quadrature](https://uchi-compy23.github.io/notes/04_functions/integration.html)
+
+### Reading
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 61 - 104 (Interpolation and Approximation) **Required**
+* [SciPy interpolation tutorial](https://docs.scipy.org/doc/scipy/reference/tutorial/interpolate.html) **Recommended**
+* [PyPlot Use FAQ](https://matplotlib.org/faq/usage_faq.html) **Required** (first half)
+* [Matplotlib tutorials](https://matplotlib.org/tutorials/index.html) **Recommended** take a look around
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 111-123 **Required**
+* [`scipy.integrate.quad`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.quad.html#scipy.integrate.quad) **Recommended**
+
+
 
 ## Project
 
