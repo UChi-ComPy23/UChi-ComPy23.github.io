@@ -144,7 +144,7 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 ### Class material
 0. [More on Plotting](https://uchi-compy23.github.io/notes/00_python/pyplot.html)
 1. [Interpolation](https://uchi-compy23.github.io/notes/04_functions/interpolation.html)
-2. [Integration, Quadrature](https://uchi-compy23.github.io/notes/04_functions/integration.html)
+
 
 ### Reading
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 61 - 104 (Interpolation and Approximation) **Required**
@@ -154,6 +154,24 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 111-123 **Required**
 * [`scipy.integrate.quad`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.quad.html#scipy.integrate.quad) **Recommended**
 
+
+
+
+## Day 09 - 10/30
+### Homework
+* Homework 3 due
+* Homework 4 released
+
+
+### Class material
+0. [Integration, Quadrature](https://uchi-compy23.github.io/notes/04_functions/integration.html)
+1. [Python Iterators and Generators](https://uchi-compy23.github.io/notes/00_python/iterators.html)
+2. Condition numbers
+
+
+## Reading
+* [Python Tutorial on Iterators](https://docs.python.org/3/tutorial/classes.html#iterators) **Required**
+* [Python Tutorial on Generators](https://docs.python.org/3/tutorial/classes.html#generators) **Required**
 
 
 ## Project
