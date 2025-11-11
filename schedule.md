@@ -191,8 +191,13 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 ### Class material
 0. [Optimization](https://uchi-compy23.github.io/notes/03_optimization/scipy_opt.html)
 1. [Pandas](https://uchi-compy23.github.io/notes/07_data/pandas.html)
-2. [Scikit Learn](https://uchi-compy23.github.io/notes/07_data/sklearn.html)
-   
+
+   ## Day 12 - 11/11
+0. [Scikit Learn](https://uchi-compy23.github.io/notes/07_data/sklearn.html)
+1. [Distances](https://uchi-compy23.github.io/notes/08_geometry/distances.html)
+2. [Nearest Neighbor Queries](https://uchi-compy23.github.io/notes/08_geometry/nearestneighbor.html)
+
+
 
 ## Project
 
