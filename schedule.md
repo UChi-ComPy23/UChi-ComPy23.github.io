@@ -210,8 +210,12 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 1. [Dimensionality Reduction, Plotly](https://uchi-compy23.github.io/notes/07_data/dimension_reduction.html)
 2. [Linear Algebra in PyTorch](https://uchi-compy23.github.io/notes/02_linear_algebra/pytorch.html)
 3. [Basic Neural Networks in PyTorch](https://uchi-compy23.github.io/notes/07_data/pytorch.html)
-
+4. [Scipy distributions](https://uchi-compy23.github.io/notes/06_probability_statistics/scipy_stats.html)
  
+
+## Day 14 - 11/18
+
+No class
 
 ## Project
 
