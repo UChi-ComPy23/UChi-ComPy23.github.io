@@ -199,6 +199,20 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 
 
+
+## Day 13 - 11/13
+### Homework
+* Homework 5 due
+* Homework 6 released
+  
+### Class Material
+0. [Nearest Neighbor Queries](https://uchi-compy23.github.io/notes/08_geometry/nearestneighbor.html) (continued)
+1. [Dimensionality Reduction, Plotly](https://uchi-compy23.github.io/notes/07_data/dimension_reduction.html)
+2. [Linear Algebra in PyTorch](https://uchi-compy23.github.io/notes/02_linear_algebra/pytorch.html)
+3. [Basic Neural Networks in PyTorch](https://uchi-compy23.github.io/notes/07_data/pytorch.html)
+
+ 
+
 ## Project
 
 Groups finalized 10/20.
