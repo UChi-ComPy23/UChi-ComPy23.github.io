@@ -217,6 +217,18 @@ Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/sc
 
 No class
 
+
+## Day 15 - 11/20
+### Homework
+* Homework 6 due
+* Homework 7 released
+* Project checkpoint due
+
+### Class material
+0. [Monte Carlo Methods](https://uchi-compy23.github.io/notes/06_probability_statistics/monte_carlo.html)
+1. Introduction to Fourier methods
+
+
 ## Project
 
 Groups finalized 10/20.
