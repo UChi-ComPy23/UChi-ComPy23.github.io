@@ -229,6 +229,16 @@ No class
 1. Introduction to Fourier methods
 
 
+
+## Day 16 - 12/05
+### Homework
+* Homework 7 due
+* Homework review
+
+### Class material
+0. Introduction to Fourier methods
+1. [Boundary Value Problems](https://uchi-compy23.github.io/notes/04_functions/bvp.html)
+
 ## Project
 
 Groups finalized 10/20.
